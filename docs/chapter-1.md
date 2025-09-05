@@ -137,5 +137,7 @@ y porque los familiares manifestarán una mayor conexión emocional y compromiso
 
 #### 1.2.2.4. Lean UX Canvas.
 
+<img src="assets/Lean UX Canvas.png" alt="Lean UX Canvas" height="200"/> 
+
 ## 1.3. Segmentos objetivo.
 
