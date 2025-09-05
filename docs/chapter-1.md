@@ -23,6 +23,8 @@ En FitBridge aspiramos a ser la plataforma líder en comunicación y gestión de
 
 ## 1.2. Solution Profile
 
+### 1.2.1. Antecedentes y problemática
+
 * WHAT (¿Qué?)
 Existe una falta de comunicación directa y personalizada entre entrenadores y usuarios, especialmente fuera del entorno tradicional del gimnasio. Esto limita el seguimiento de objetivos, hábitos saludables y rutinas de entrenamiento.
 
@@ -49,11 +51,21 @@ Actualmente, la comunicación entre entrenadores y usuarios se realiza de forma 
 * HOW MUCH (¿Cuánto?)
 Este problema afecta potencialmente a miles de usuarios en Lima que entrenan en gimnasios o de forma independiente, así como a entrenadores que buscan expandir su alcance y mejorar la gestión de sus clientes. El mercado fitness en Perú está en crecimiento, lo que representa una oportunidad para escalar esta solución.
 
-### 1.2.1. Antecedentes y problemática
-
 ### 1.2.2. Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
+
+#### Problem Statement 1
+Usuarios: Personas que entrenan en gimnasios y desean mantener una comunicación activa con sus entrenadores.
+Necesidad: Necesitan una forma digital y accesible para recibir entrenamientos, compartir sus metas y registrar hábitos saludables, pero actualmente no cuentan con una plataforma que centralice esta interacción.
+
+#### Problem Statement 2
+Usuarios: Personas que entrenan de forma independiente y buscan apoyo profesional.
+Necesidad: Necesitan encontrar entrenadores personales confiables y recibir rutinas adaptadas a sus objetivos, pero no tienen acceso a una herramienta que facilite esta conexión y seguimiento personalizado.
+
+#### Problem Statement 3
+Usuarios: Entrenadores personales y de gimnasio.
+Necesidad: Necesitan gestionar sus clientes, compartir entrenamientos y hacer seguimiento a sus progresos, pero actualmente dependen de canales informales que dificultan la organización y la personalización del servicio.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
