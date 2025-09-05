@@ -137,7 +137,46 @@ y porque los familiares manifestarán una mayor conexión emocional y compromiso
 
 #### 1.2.2.4. Lean UX Canvas.
 
-<img src="assets/Lean UX Canvas.png" alt="Lean UX Canvas" height="200"/> 
+<img src="./assets/Lean UX Canvas.png" alt="Lean UX Canvas" height="200"/> 
 
-## 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivos.
 
+#### a) Usuarios no afiliados a gimnasios 
+
+**Descripción del segmento:**
+
+Personas que entrenan de forma independiente y buscan apoyo profesional personalizado. Están dispuestas a pagar por servicios de entrenamiento remoto que les ayuden a alcanzar sus metas físicas, mantener hábitos saludables y recibir orientación constante.
+
+**Características demográficas:**
+
+Edad: 25 a 50 años.
+Ubicación: Lima Metropolitana y otras zonas urbanas con acceso a entrenadores personales.
+Nivel educativo: Técnico o universitario.
+Uso de tecnología: Alta familiaridad con smartphones, apps de fitness, redes sociales y pagos digitales.
+
+**Información estadística de sustento:**
+
+El 40% de los usuarios de apps de fitness en Perú no están afiliados a gimnasios (fuente: Statista).
+El gasto promedio mensual en entrenamiento personalizado ha aumentado un 20% desde 2021.
+Según INEI (2022), más del 69% de los hogares en Lima tienen acceso a Internet, lo que facilita el uso de plataformas como FitBridge.
+
+----
+
+#### b) Entrenadores personales 
+
+**Descripción del segmento:**
+
+Profesionales independientes que ofrecen servicios personalizados de entrenamiento físico. Buscan herramientas digitales para organizar su trabajo, gestionar clientes, compartir rutinas y expandir su alcance profesional.
+
+**Características demográficas:**
+
+Edad: 25 a 45 años.
+Nivel educativo: Certificación profesional en entrenamiento físico o carreras afines.
+Ubicación: Lima Metropolitana y zonas urbanas con alta demanda de entrenamiento personalizado.
+Uso de tecnología: Alta competencia digital; usan redes sociales, apps de gestión y plataformas de pago.
+
+**Información estadística de sustento:**
+
+El 65% de los entrenadores personales en Lima trabajan de forma independiente (fuente: Asociación Peruana de Fitness).
+El 82% está interesado en herramientas digitales para mejorar la gestión de sus clientes.
+El mercado fitness en Perú ha crecido un 15% anual en los últimos 3 años.
