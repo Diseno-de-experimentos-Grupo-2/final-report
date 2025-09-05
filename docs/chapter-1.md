@@ -69,6 +69,35 @@ Necesidad: Necesitan gestionar sus clientes, compartir entrenamientos y hacer se
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+¿Quiénes son nuestros usuarios?
+
+R: Personas que entrenan en gimnasios y desean mantener contacto con sus entrenadores.
+Personas que entrenan de forma independiente y buscan apoyo profesional.
+Entrenadores personales y entrenadores de gimnasio que necesitan gestionar clientes y compartir rutinas.
+
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+
+R:La plataforma FitBridge se integra en la rutina de entrenamiento de los usuarios como una herramienta para planificar, registrar y seguir sus progresos. Para los entrenadores, representa una solución para gestionar clientes, compartir entrenamientos y mantener una comunicación constante. Para los usuarios no afiliados, es una vía para acceder a entrenadores personales desde cualquier lugar.
+
+¿Qué problema podría afrontar nuestro producto y cómo podemos resolverlo?
+
+Problema: La falta de comunicación estructurada entre entrenadores y usuarios limita el seguimiento de objetivos, la motivación y la personalización del entrenamiento. Además, los entrenadores no cuentan con herramientas eficientes para gestionar sus clientes.
+
+Solución: FitBridge centraliza la comunicación, permite compartir rutinas personalizadas, registrar hábitos saludables y visualizar metas. Ofrece a los entrenadores una plataforma para organizar su trabajo y a los usuarios una experiencia más conectada y motivadora.
+
+¿Cuándo y cómo se utiliza?
+
+R: FitBridge se utiliza diariamente desde dispositivos móviles o computadoras. Los usuarios acceden para revisar entrenamientos, registrar hábitos y consultar su calendario. Los entrenadores lo usan para publicar rutinas, revisar el progreso de sus clientes y comunicarse con ellos. La plataforma está diseñada para ser parte activa del proceso de entrenamiento.
+
+¿Qué características son importantes?
+
+Calendario personal para registrar eventos y hábitos saludables, Visualización de entrenamientos publicados por el entrenador, Gestión de clientes para entrenadores, Publicaciones personalizadas para cada cliente, Interfaz intuitiva y accesible para todos los perfiles de usuario y Sistema de metas y objetivos compartidos.
+
+¿Cómo debe verse nuestro producto y cómo comportarse?
+
+R: La plataforma debe tener un diseño moderno, motivador y profesional, con una interfaz clara y amigable tanto para usuarios como para entrenadores. Debe transmitir energía, confianza y compromiso con el bienestar. Su comportamiento debe ser fluido, confiable y centrado en facilitar la comunicación, el seguimiento y la mejora continua del entrenamiento.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 #### 1.2.2.4. Lean UX Canvas.
