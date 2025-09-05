@@ -100,6 +100,41 @@ R: La plataforma debe tener un diseño moderno, motivador y profesional, con una
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Creemos que al facilitar el acceso rápido a información confiable sobre el estado de salud de los residentes,
+para los familiares, lograremos reducir su ansiedad y mejorar su percepción sobre el cuidado recibido.
+Sabremos que esto es cierto cuando más del 70% de los familiares reporten sentirse mejor informados y confiados en encuestas periódicas,
+y porque aumentará la frecuencia y duración de las consultas en la plataforma.
+
+Creemos que al mejorar la eficiencia en el registro y organización de datos,
+para el personal de cuidado,
+lograremos reducir su carga administrativa y aumentar el tiempo dedicado a la atención directa.
+Sabremos que esto es cierto cuando el personal reporte una reducción significativa en el tiempo dedicado a tareas administrativas y mayor satisfacción laboral,
+y porque se registrará un mayor número de observaciones clínicas completas y oportunas.
+
+Creemos que al proveer información clara y confiable sobre el estado general de los residentes,
+para los administradores,
+lograremos fortalecer la toma de decisiones para mejorar la calidad del servicio.
+Sabremos que esto es cierto cuando los administradores usen los datos para implementar mejoras y reporten mayor confianza en sus decisiones,
+y porque se observará un aumento en la adopción de políticas basadas en datos y mayor satisfacción de las familias.
+
+Creemos que al reducir la dependencia de comunicaciones informales y dispersas,
+para todo el personal involucrado en el cuidado,
+lograremos disminuir errores y malentendidos sobre el cuidado de los residentes.
+Sabremos que esto es cierto cuando se reduzcan los incidentes relacionados con falta de información o errores de comunicación,
+y porque habrá menos quejas formales y reclamaciones por parte de familiares y personal.
+
+Creemos que al facilitar la visualización de tendencias y cambios en el bienestar emocional y físico de los residentes,
+para el personal de cuidado,
+lograremos anticipar problemas y mejorar el seguimiento individual.
+Sabremos que esto es cierto cuando el personal reporte un uso constante de estas visualizaciones y mayor efectividad en intervenciones preventivas,
+y porque disminuirán las complicaciones derivadas de deterioros no detectados oportunamente.
+
+Creemos que al brindar acceso remoto y en cualquier momento a la información del residente,
+para los familiares,
+lograremos mejorar su sensación de acompañamiento y participación en el cuidado.
+Sabremos que esto es cierto cuando aumente la frecuencia de accesos y consultas fuera del horario de visitas,
+y porque los familiares manifestarán una mayor conexión emocional y compromiso con el cuidado.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
