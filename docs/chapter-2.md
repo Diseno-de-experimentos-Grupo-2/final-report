@@ -52,6 +52,51 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+**Diferenciación por análisis avanzado de datos**
+
+- **Estrategia:** Posicionarse como una plataforma profesional para entrenadores que priorizan el análisis profundo y la planificación personalizada.
+- **Táctica:** Ofrecer herramientas como encuestas, gráficos de evolución, planificación a largo plazo y reportes detallados por cliente.
+
+> Esta estrategia **responde a la necesidad de entrenadores especializados y aprovecha la debilidad de plataformas más simples** que no ofrecen análisis detallado.
+
+**Modelo SaaS accesible y escalable**
+
+- **Estrategia:** Ofrecer un modelo de suscripción mensual adaptable al número de clientes gestionados.
+- **Táctica:** Diseñar planes para entrenadores individuales, centros deportivos y clínicas, con funcionalidades premium según el volumen de usuarios.
+
+> Esta táctica **mitiga amenazas económicas y aprovecha la oportunidad de expansión institucional,** diferenciándose de plataformas con precios fijos o sin escalabilidad.
+
+
+**Diferenciación por enfoque en gimnasios**
+
+- **Estrategia:** Enfocar la plataforma en la gestión integral de gimnasios y centros deportivos.
+- **Táctica:** Incluir funcionalidades como control de asistencia, gestión de citas, rutinas grupales y administración de clientes desde una sola interfaz.
+
+> Esta estrategia responde a la fortaleza institucional de los gimnasios y **aprovecha la debilidad de plataformas que no ofrecen soluciones grupales o administrativas.**
+
+**Integración con software de gestión**
+
+- **Estrategia:** Posicionarse como una solución compatible con sistemas de gestión existentes..
+- **Táctica:** Desarrollar integraciones con CRMs, sistemas de pago y apps de control de acceso.
+
+> Esta táctica **responde a la amenaza de interoperabilidad limitada** en otras plataformas y **aprovecha la oportunidad de digitalización en gimnasios medianos y grandes.**
+
+
+**Diferenciación por entrenamiento remoto personalizado**
+
+- **Estrategia:** Enfocar la plataforma en entrenadores personales que trabajan online o híbrido.
+- **Táctica:** Ofrecer mensajería directa, envío de videos, rutinas personalizadas y seguimiento en tiempo real.
+
+> Esta estrategia **capitaliza la oportunidad del crecimiento del entrenamiento remoto y responde a la debilidad de plataformas que dependen del entorno físico.**
+
+
+**Modelo directo al entrenador**
+
+- **Estrategia:** Vender directamente a entrenadores individuales sin intermediarios institucionales.
+- **Táctica:** Marketing digital enfocado en profesionales independientes, con suscripciones mensuales y soporte técnico personalizado.
+
+> Esta táctica **mitiga la amenaza de saturación institucional y aprovecha el segmento creciente de entrenadores freelance.**
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
