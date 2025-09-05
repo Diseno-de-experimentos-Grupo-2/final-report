@@ -15,6 +15,40 @@ Trainingym es una plataforma digital que permite a gimnasios y entrenadores pers
 TrueCoach está enfocada en entrenadores personales que trabajan de forma remota o híbrida. Permite enviar rutinas, videos, mensajes y recibir feedback en tiempo real, facilitando una comunicación constante entre entrenador y cliente. Su diseño está pensado para maximizar la interacción personalizada y el seguimiento detallado del progreso físico, siendo una herramienta popular entre profesionales que ofrecen servicios online y desean mantener una relación cercana con sus clientes.
 
 ### 2.1.1. Análisis competitivo.
+### **¿Por qué llevar a cabo este análisis?**
+
+Llevar a cabo este análisis permite identificar y comparar las fortalezas, debilidades y propuestas de valor de los principales competidores, con el fin de mejorar la estrategia de **FitBridge**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
+
+---
+
+### Perfil 
+| Perfil       | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
+|--------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Overview     | Plataforma web y móvil que conecta entrenadores con usuarios afiliados y no afiliados a gimnasios. | Plataforma profesional para entrenadores y centros de salud con enfoque en análisis y personalización. | Plataforma digital para gimnasios y entrenadores con herramientas de gestión y seguimiento. | Plataforma para entrenadores personales que trabajan de forma remota o híbrida. |
+| Ventaja Competitiva      | Comunicación directa, gestión personalizada y acceso a entrenadores desde cualquier lugar. | Personalización profunda basada en datos y planificación a largo plazo. | Flexibilidad para gimnasios y entrenadores con interfaz amigable. | Comunicación constante y seguimiento dinámico para entrenadores remotos.   |
+
+
+### Perfil de Marketing
+| Perfil de Markteing     | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
+|----------------------|-------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------|
+| Mercado Objetivo | Usuarios independientes, afiliados a gimnasios y entrenadores personales.     | Entrenadores profesionales, fisioterapeutas y centros de salud. | Gimnasios, centros deportivos y entrenadores personales. | Entrenadores personales que ofrecen servicios online.   |
+| Estrategias de Marketing    | Marketing digital, redes sociales, alianzas con gimnasios y entrenadores. | Participación en eventos de salud, marketing B2B, demostraciones técnicas. | Publicidad en medios fitness, ferias deportivas, marketing institucional.   | Marketing en redes sociales, contenido educativo, colaboraciones con entrenadores.  |
+
+### Perfil de Producto 
+| Perfil de Producto | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
+|-----------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------|
+| Productos & Servicios                | Plataforma web/móvil, calendario, metas, rutinas, gestión de clientes, publicaciones personalizadas. | Software con dashboards, planificación, encuestas, análisis de datos. | App con rutinas, control de asistencia, gestión de citas y clientes.  | App con rutinas, videos, mensajería directa, seguimiento personalizado.|
+| Precios & Costos           | Freemium: usuarios afiliados no pagan, usuarios independientes y entrenadores personales sí. | SaaS por suscripción mensual, escalable según número de clientes. | Suscripción mensual por gimnasio o entrenador, precio medio. | Suscripción mensual por entrenador, precio medio-alto. |
+| Canales de Distribucion      | Web y app móvil (Android/iOS), alianzas con gimnasios y entrenadores. | Web, app móvil, integración con sistemas médicos. | Web, app móvil, integración con software de gimnasios.   | Web, app móvil, marketing directo a entrenadores. |
+
+
+### Análisis SWTO 
+| Analisis SWTO | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
+|------------|------------------------------------|-------------------------------------------|---------------------------------------------|------------------------------------------------------|
+|        Fortalezas    | Plataforma inclusiva para distintos tipos de usuarios. Interfaz intuitiva. Comunicación directa. | Personalización avanzada. Análisis de datos. Herramientas profesionales. | Gestión integral para gimnasios. Interfaz adaptable. | Comunicación constante. Ideal para entrenadores online. |
+|    Debilidades         | Requiere adopción por parte de gimnasios y entrenadores. En etapa inicial. | Costos elevados. Curva de aprendizaje técnica.| Limitado a gimnasios. Menor enfoque en usuarios independientes. | Enfocado solo en entrenadores personales. Menor escalabilidad institucional. |
+|     Oportunidades          | Expansión nacional. Integración con wearables. Alianzas con gimnasios y entrenadores. | Integración con dispositivos IoT. Expansión a clínicas y hospitales. | Expansión a gimnasios pequeños y entrenadores independientes. | Crecimiento del entrenamiento remoto. Integración con plataformas de salud. |
+|    Amenazas      | Competencia con apps consolidadas. Retención de usuarios. | Evolución tecnológica rápida. Competencia con plataformas más accesibles. | Nuevas apps gratuitas. Saturación del mercado fitness. | RCompetencia con apps más versátiles. Cambios en hábitos de consumo digital. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
