@@ -23,6 +23,32 @@ En FitBridge aspiramos a ser la plataforma líder en comunicación y gestión de
 
 ## 1.2. Solution Profile
 
+* WHAT (¿Qué?)
+Existe una falta de comunicación directa y personalizada entre entrenadores y usuarios, especialmente fuera del entorno tradicional del gimnasio. Esto limita el seguimiento de objetivos, hábitos saludables y rutinas de entrenamiento.
+
+* WHY (¿Por qué?)
+Esta desconexión impide que los usuarios mantengan constancia en sus entrenamientos, dificulta el seguimiento de sus metas y reduce la motivación. Además, los entrenadores no cuentan con herramientas efectivas para gestionar y apoyar a sus clientes de forma remota.
+
+* WHERE (¿Dónde?)
+El problema ocurre en Lima, Perú, y puede extenderse a nivel nacional, tanto en gimnasios como en entornos domésticos donde los usuarios entrenan por cuenta propia o con entrenadores personales.
+
+* WHO (¿Quiénes?)
+Los afectados son:
+
+  Usuarios afiliados a gimnasios que no tienen una vía digital para interactuar con sus entrenadores.
+Usuarios no afiliados que buscan entrenadores personales y seguimiento remoto.
+Entrenadores que necesitan gestionar clientes y compartir rutinas de forma eficiente.
+
+
+* WHEN (¿Cuándo?)
+La necesidad de comunicación y seguimiento ocurre de forma continua, especialmente cuando los usuarios no están físicamente en el gimnasio o cuando entrenan de forma independiente. También es crítica en momentos de cambio de rutina, evaluación de progreso o pérdida de motivación.
+
+* HOW (¿Cómo?)
+Actualmente, la comunicación entre entrenadores y usuarios se realiza de forma informal (mensajes, llamadas, redes sociales), lo que dificulta el seguimiento estructurado de entrenamientos, hábitos y objetivos. No existe una plataforma centralizada que integre estas funciones.
+
+* HOW MUCH (¿Cuánto?)
+Este problema afecta potencialmente a miles de usuarios en Lima que entrenan en gimnasios o de forma independiente, así como a entrenadores que buscan expandir su alcance y mejorar la gestión de sus clientes. El mercado fitness en Perú está en crecimiento, lo que representa una oportunidad para escalar esta solución.
+
 ### 1.2.1. Antecedentes y problemática
 
 ### 1.2.2. Lean UX Process.
