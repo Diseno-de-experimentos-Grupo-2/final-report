@@ -98,7 +98,7 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 > Esta táctica **mitiga la amenaza de saturación institucional y aprovecha el segmento creciente de entrenadores freelance.**
 
 ## 2.2. Entrevistas.
-#### 2.2.1. Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas
 
 **Preguntas Generales**
 
@@ -137,8 +137,6 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 10. ¿Qué te haría elegir FitBridge sobre otras plataformas similares?
 11. ¿Qué retos enfrentas al trabajar con clientes de forma remota?
 12. ¿Qué sugerencias tienes para mejorar la experiencia digital entre entrenador y cliente?
-
-### 2.2.1. Diseño de entrevistas.
 
 ### 2.2.2. Registro de entrevistas.
 
