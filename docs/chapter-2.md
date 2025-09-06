@@ -98,6 +98,45 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 > Esta táctica **mitiga la amenaza de saturación institucional y aprovecha el segmento creciente de entrenadores freelance.**
 
 ## 2.2. Entrevistas.
+#### 2.2.1. Diseño de entrevistas
+
+**Preguntas Generales**
+
+1. ¿Cuál es su nombre completo?  
+2. ¿Cuántos años tienes?  
+3. ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?  
+4. ¿En qué ciudad resides?  
+
+**Segmento: Usuarios no afiliados a gimnasios**
+
+1. ¿Cómo es tu rutina de entrenamiento actualmente? ¿Dónde entrenas y con qué frecuencia?
+2. ¿Has contratado alguna vez a un entrenador personal? ¿Cómo fue esa experiencia? 
+3. ¿Qué tipo de metas personales tienes relacionadas con tu salud o condición física?
+4. ¿Qué te motiva a seguir entrenando? ¿Y qué factores te desmotivan?
+5. ¿Utilizas alguna app o herramienta para registrar tus entrenamientos o hábitos saludables? ¿Cuál?
+6. ¿Qué tipo de apoyo profesional te gustaría recibir para mejorar tu entrenamiento?
+7. ¿Qué tan importante es para ti tener comunicación constante con un entrenador?
+8. ¿Estarías dispuesto a pagar por una plataforma que te conecte con entrenadores personales y te ayude a seguir tus metas? ¿Por qué?
+9. ¿Qué funcionalidades te parecerían imprescindibles en una plataforma como FitBridge?
+10. ¿Qué aspectos te harían confiar en un entrenador que conoces a través de una app?
+11. ¿Qué sugerencias tendrías para mejorar la experiencia de entrenamiento remoto?
+12. ¿Qué tan importante es para ti registrar tus hábitos saludables (como descanso, hidratación, alimentación) en una app?
+
+
+**Segmento: Entrenadores personales**
+
+1. ¿Cuántos clientes gestionas actualmente y cómo organizas sus rutinas?  
+2. ¿Trabajas de forma presencial, remota o híbrida? ¿Cuál prefieres y por qué? 
+3. ¿Qué herramientas digitales usas para comunicarte con tus clientes? 
+4. ¿Qué tan fácil o difícil es hacer seguimiento del progreso de cada cliente?
+5. ¿Qué aspectos de tu trabajo te gustaría automatizar o mejorar?
+6. ¿Has usado alguna plataforma de gestión de entrenamiento antes? ¿Cuál fue tu experiencia?
+7. ¿Qué funcionalidades consideras clave para organizar tu trabajo como entrenador?
+8. ¿Estarías dispuesto a pagar por una herramienta que te ayude a gestionar clientes, publicar rutinas y mantener comunicación constante? ¿Por qué?
+9. ¿Qué tipo de contenido te gustaría compartir con tus clientes a través de una plataforma (videos, rutinas, mensajes, etc.)?
+10. ¿Qué te haría elegir FitBridge sobre otras plataformas similares?
+11. ¿Qué retos enfrentas al trabajar con clientes de forma remota?
+12. ¿Qué sugerencias tienes para mejorar la experiencia digital entre entrenador y cliente?
 
 ### 2.2.1. Diseño de entrevistas.
 
