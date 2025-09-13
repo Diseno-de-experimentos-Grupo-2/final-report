@@ -146,6 +146,16 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 
 ### 2.3.1. User Personas.
 
+Para comprender mejor a nuestros segmentos objetivos, hemos creado perfiles de User Persona que representan a nuestros principales usuarios y sus características. Estos perfiles nos permiten empatizar con sus metas, motivaciones y frustraciones, guiando el diseño de soluciones en Entrena.pe.
+
+**User Persona 1: Usuario no afiliado a gimnasio**
+
+  <img src="/assets/Carla Mendoza.png" >
+
+**User Persona 2: Entrenador personal**
+
+<img src="/assets/Diego Salazar.png" >
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
