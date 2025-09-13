@@ -158,6 +158,26 @@ Para comprender mejor a nuestros segmentos objetivos, hemos creado perfiles de U
 
 ### 2.3.2. User Task Matrix.
 
+En este cuadro, se presentan las tareas realizadas por los dos **User Personas**:  
+1. **Carla Mendoza** (Usuario no afiliado a gimnasio).  
+2. **Diego Salazar** (Entrenador personal).
+
+Cada fila muestra una tarea clave y su frecuencia e importancia para cada persona.
+
+| **Tareas**                                                                                  | **Diego Salazar** |           | **Carla Mendoza**          |           |
+|---------------------------------------------------------------------------------------------|-------------------|------------|-------------------|------------|
+|                                                                                             | **Frecuencia**    | **Importancia** | **Frecuencia**    | **Importancia** |
+| Buscar rutinas de entrenamiento en Internet o apps gratuitas	| Alta             | Media       | Media     | Media |
+| Seguir un plan de entrenamiento estructurado	| Media | Alta	| Alta | Alta |
+| Llevar registro del progreso físico (peso, medidas, fotos) |	Media |  Alta |	Media |  Alta |
+| Mantener hábitos saludables (alimentación, hidratación, sueño) |	Media  |  Alta	| Media |  Alta |
+| Coordinar sesiones por WhatsApp o redes sociales	| Baja | Media |	Alta |  Alta |
+| Gestionar pagos de entrenamientos (transferencias, efectivo)	| Baja |  Media	| Alta | Alta| 
+| Publicar y compartir rutinas con clientes |	Baja |  Baja	| Alta |  Alta| 
+| Mantener motivación constante	| Media |  Alta	| Baja |  Alta |
+| Organizar calendario de entrenamientos	| Baja | Alta	| Alta |  Alta |
+| Expandir su red de contactos/clientes	| Baja |  Baja	| Alta |  Alta |
+
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
