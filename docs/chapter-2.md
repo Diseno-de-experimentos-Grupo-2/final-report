@@ -180,6 +180,8 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 ### 2.3.3. User Journey Mapping.
 
+### 2.3.4. Empathy Mapping.
+
 **Segmento objetivo 1: Usuario no afiliado a gimnasio**
 
   <img src="/assets/Carla Mendoza (3).png" >
@@ -187,8 +189,6 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 **Segmento objetivo 2: Entrenador personal**
 
 <img src="/assets/Diego Salazar (1).png" >
-
-### 2.3.4. Empathy Mapping.
 
 ### 2.3.5. As-is Scenario Mapping.
 
