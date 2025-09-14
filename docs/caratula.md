@@ -23,11 +23,11 @@
       </thead>
       <tbody>
         <tr>
-          <td>X</td>
+          <td>Asmad Padilla, Fátima</td>
           <td>x</td>
         </tr>
         <tr>
-          <td>X</td>
+          <td>Nakasone Gomez, Marco</td>
           <td>x</td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@
 </div>
 
 
-<div style="text-align: center;"> Ciclo 2025-2 </div>
+<div style="text-align: center;"> Ciclo 2025-20 </div>
 
 
 ## Registro de Versiones del Informe
