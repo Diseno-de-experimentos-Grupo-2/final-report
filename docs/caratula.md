@@ -9,8 +9,8 @@
 ## <div style="text-align: center;"> Nrc: 7508 </div>
 ## <div style="text-align: center;"> Docente: Julio Manuel Noriega Melendez </div>
 ## <div style="text-align: center;"> Informe TB1</div>
-## <div style="text-align: center;"> Start up: </div>
-## <div style="text-align: center;"> Prouct: Entrena.pe </div>
+## <div style="text-align: center;"> Start up: Go6U </div>
+## <div style="text-align: center;"> Product: Entrena.pe </div>
 
 ### <div style="text-align: center;"> INTEGRANTES:</div>
 <div style="display: flex; justify-content: center;">
