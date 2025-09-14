@@ -202,4 +202,17 @@ En esta sección se describe el recorrido completo de los usuarios clave en la s
 
 ### 2.3.5. As-is Scenario Mapping.
 
+En esta sección se presenta un análisis detallado de la situación actual (AS-IS) para los diferentes usuarios involucrados en el cuidado de los residentes en asilos de ancianos. A través de este mapeo, identificamos los procesos, las interacciones y las emociones clave de los familiares, el personal del asilo y los administradores, proporcionando una visión clara de los puntos críticos y áreas de oportunidad en la gestión de la atención.
+
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace
+[https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-2515%2C-671%2C3567%2C3405%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552](https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-2515%2C-671%2C3567%2C3405%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552)
+
+**As-Is Segmento objetivo 1: Usuario no afiliado a gimnasio**
+
+  <img src="/assets/Diagrama en blanco.png" >
+
+**As-Is Segmento objetivo 2: Entrenador personal**
+
+<img src="/assets/Diagrama en blanco (1).png" >
+
 ## 2.4. Ubiquitous Language.
