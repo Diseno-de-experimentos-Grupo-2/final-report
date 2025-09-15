@@ -273,6 +273,16 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 En esta sección se presenta el análisis detallado de la información recolectada durante las entrevistas realizadas a los distintos perfiles involucrados en el deporte. El objetivo principal del proceso de Needfinding ha sido identificar necesidades reales, motivaciones, frustraciones y patrones de comportamiento de los usuarios para guiar el diseño de una solución centrada en ellos.<br>
 Los artefactos incluidos User Persona, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping, permiten visualizar, sintetizar y comprender de manera estructurada la experiencia actual de los usuarios, sus tareas clave, emociones, puntos de dolor y oportunidades de mejora. Este análisis constituye la base para el diseño de soluciones alineadas con sus contextos y objetivos reales.
 ### 2.3.1. User Persona.
+**Segmento Objetivo 1:** Deportistas
+<br>
+<br>
+<img width="1050" height="1660" alt="image" src="https://github.com/user-attachments/assets/510f362b-15c8-4d43-9bd3-c7cb9c920528" />
+<br>
+<br>
+**Segmento Objetivo 2:** Entrenadores
+<br>
+<br>
+<img width="1050" height="1660" alt="image" src="https://github.com/user-attachments/assets/23a7da28-439c-45ca-92d5-75b03e4bc1f1" />
 
 ### 2.3.2. User Task Matrix.
 
