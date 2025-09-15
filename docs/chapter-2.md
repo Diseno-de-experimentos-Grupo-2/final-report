@@ -351,7 +351,7 @@ Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchar
 
 ## 2.4. Ubiquitous Language.
 
-El Lenguaje Ubicuo de Entrena.pe establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
+El Lenguaje Ubicuo de Entrena.pe establece un vocabulario común, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
 
 | Term           | Definition                                                                                                                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
