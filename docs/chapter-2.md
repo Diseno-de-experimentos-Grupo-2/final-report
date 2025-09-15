@@ -317,7 +317,8 @@ En esta sección se describe el recorrido completo de los usuarios clave en la s
 
 **Segmento objetivo 2: Entrenador**
 
-<img src="/assets/Diego Salazar (2).png" >
+<img width="1181" height="677" alt="image" src="https://github.com/user-attachments/assets/41f00ab4-0342-47fa-b728-8cf520b1af4e" />
+
 
 ### 2.3.4. Empathy Mapping.
 
