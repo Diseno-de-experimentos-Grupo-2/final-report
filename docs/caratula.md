@@ -24,7 +24,7 @@
       <tbody>
         <tr>
           <td>Asmad Padilla, Fátima</td>
-          <td>x</td>
+          <td>U20221B490</td>
         </tr>
         <tr>
           <td>Nakasone Gomez, Marco</td>
