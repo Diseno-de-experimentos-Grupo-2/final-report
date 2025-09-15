@@ -28,6 +28,7 @@ El proyecto utiliza **GitHub** como plataforma de control de versiones bajo el m
 - **Repositorio landing page:** https://github.com/Diseno-de-experimentos-Grupo-2/entrena.pe---landing <br><br>
 - **Repositorio frontend web:** https://github.com/Diseno-de-experimentos-Grupo-2/entrena-frontend<br><br>
 - **Repositorio backend:** https://github.com/Diseno-de-experimentos-Grupo-2/entrena-platform<br><br>
+- **Repositorio app movil:** https://github.com/Diseno-de-experimentos-Grupo-2/appMovil-entrena.pe <br><br>
 
 **Ramas principales**
 - `master` – Rama de integración de nuevas funcionalidades.
@@ -120,6 +121,9 @@ Se redactó un **Service Level Agreement (SLA)** que define:
 ### 5.2.5. Implemented Native-Mobile Application Evidence
 Aplicación móvil en **Android Studio**, disponible para Android en fase beta.  
 Evidencia de instalación y pantallas:  
+<img width="696" height="854" alt="image" src="https://github.com/user-attachments/assets/6cbaac7e-86c6-4a11-9bee-21535f25a167" />
+<img width="697" height="850" alt="image" src="https://github.com/user-attachments/assets/c27890ea-9f50-440a-a33f-5cad275d55b8" />
+<img width="686" height="844" alt="image" src="https://github.com/user-attachments/assets/9aa1f8ea-a28c-4802-b000-bc64bf553afd" />
 
 
 ---
