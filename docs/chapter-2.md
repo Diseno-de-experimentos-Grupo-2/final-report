@@ -286,10 +286,78 @@ Los artefactos incluidos User Persona, User Task Matrix, User Journey Maps, Empa
 
 ### 2.3.2. User Task Matrix.
 
+En este cuadro, se presentan las tareas realizadas por los dos **User Persona**:
+1. **Jovani Vasquez** Deportista.
+2. **Fernando Fernandez** Entrenador.
+
+Cada fila muestra una tarea clave y su frecuencia e importancia para cada persona.
+
+| **Tareas**                                                     | **Fernando Fernandez** |                 | **Jovani Vasquez** |                 |
+|----------------------------------------------------------------|------------------------|-----------------|--------------------|-----------------|
+|                                                                | **Frecuencia**         | **Importancia** | **Frecuencia**     | **Importancia** |
+| Buscar rutinas de entrenamiento en Internet o apps gratuitas	  | Alta                   | Media           | Media              | Media           |
+| Seguir un plan de entrenamiento estructurado	                  | Media                  | Alta	           | Alta               | Alta            |
+| Llevar registro del progreso físico (peso, medidas, fotos)     | 	Media                 | Alta            | 	Media             | Alta            |
+| Mantener hábitos saludables (alimentación, hidratación, sueño) | 	Media                 | Alta	           | Media              | Alta            |
+| Coordinar sesiones por WhatsApp o redes sociales	              | Baja                   | Media           | 	Alta              | Alta            |
+| Gestionar pagos de entrenamientos (transferencias, efectivo)	  | Baja                   | Media	          | Alta               | Alta            | 
+| Publicar y compartir rutinas con clientes                      | 	Baja                  | Baja	           | Alta               | Alta            | 
+| Mantener motivación constante	                                 | Media                  | Alta	           | Baja               | Alta            |
+| Organizar calendario de entrenamientos	                        | Baja                   | Alta	           | Alta               | Alta            |
+| Expandir su red de contactos/clientes	                         | Baja                   | Baja	           | Alta               | Alta            |
+
 ### 2.3.3. User Journey Mapping.
+
+En esta sección se describe el recorrido completo de los usuarios clave en la solución Entrena.pe , desde el primer contacto con la plataforma hasta el logro de sus objetivos principales. Se detallan las fases del viaje, emociones, pensamientos y acciones, con el fin de identificar oportunidades de mejora en la experiencia.
+
+**Segmento objetivo 1: Usuario no afiliado a gimnasio**
+
+  <img src="/assets/Carla Mendoza (4).png" >
+
+**Segmento objetivo 2: Entrenador personal**
+
+<img src="/assets/Diego Salazar (2).png" >
 
 ### 2.3.4. Empathy Mapping.
 
+**Segmento objetivo 1: Usuario no afiliado a gimnasio**
+
+  <img src="/assets/Carla Mendoza (3).png" >
+
+**Segmento objetivo 2: Entrenador personal**
+
+<img src="/assets/Diego Salazar (1).png" >
+
 ### 2.3.5. As-is Scenario Mapping.
 
+En esta sección se presenta un análisis detallado de la situación actual (AS-IS) para los diferentes usuarios involucrados en el cuidado de los residentes en asilos de ancianos. A través de este mapeo, identificamos los procesos, las interacciones y las emociones clave de los familiares, el personal del asilo y los administradores, proporcionando una visión clara de los puntos críticos y áreas de oportunidad en la gestión de la atención.
+
+Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace
+[https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-2515%2C-671%2C3567%2C3405%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552](https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-2515%2C-671%2C3567%2C3405%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552)
+
+**As-Is Segmento objetivo 1: Deportistas**
+
+  <img src="/assets/Diagrama en blanco.png" >
+
+**As-Is Segmento objetivo 2: Entrenador**
+
+<img src="/assets/Diagrama en blanco (1).png" >
+
 ## 2.4. Ubiquitous Language.
+
+El Lenguaje Ubicuo de Entrena.pe establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
+
+| Term                   | Definition                                                                                                                                                |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Usuario                | 	Persona que utiliza la plataforma Entrena.pe para acceder a rutinas, hábitos y comunicación con entrenadores. Puede o no estar afiliada a un gimnasio.   |
+| Entrenador             | 	Profesional independiente o asociado a un gimnasio que gestiona clientes, publica rutinas y hace seguimiento a través de Entrena.pe.                     |
+| Cliente                | 	Usuario que ha contratado los servicios de un entrenador personal dentro de la plataforma.                                                               |
+| Rutina                 | 	Conjunto estructurado de ejercicios asignados por el entrenador a un cliente, con duración, series, repeticiones o tiempos.                              |
+| Plan de Entrenamiento	 | Conjunto de rutinas personalizadas distribuidas en un calendario para cumplir un objetivo específico (ej. bajar de peso, tonificar, ganar masa muscular). |
+| Calendario	            | Herramienta que organiza los entrenamientos, hábitos y sesiones en fechas y horarios definidos.                                                           |
+| Hábito Saludable       | 	Actividad complementaria al entrenamiento (alimentación, hidratación, sueño, descanso activo) que se registra y hace seguimiento en la plataforma.       |
+| Progreso               | 	Métricas y resultados alcanzados por el usuario (peso, medidas corporales, asistencia a entrenamientos, cumplimiento de rutinas).                        |
+| Seguimiento	           | Acción del entrenador de monitorear y retroalimentar el avance de cada cliente.                                                                           |
+| Notificación           | 	Mensaje generado por la plataforma o por el entrenador para recordar entrenamientos, hábitos o novedades.                                                |
+| Suscripción            | 	Plan de pago que habilita acceso a servicios dentro de Entrena.pe (ej. acceso premium a entrenadores o rutinas avanzadas).                               |
+| Perfil                 | 	Información personal y profesional registrada en la plataforma, tanto para usuarios como para entrenadores.                                              |
