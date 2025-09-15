@@ -1,7 +1,8 @@
 
 # <div style="text-align: center;"> UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 <p align="center">
-  <img src="/assets/logoupc.png"  style="width:200px; height:auto;">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/28927f29-dabf-479a-85b8-81c62ea1ca03" />
+
 </p>
 
 ## <div style="text-align: center;"> Ingeniería de Software </div>
