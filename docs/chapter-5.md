@@ -75,7 +75,18 @@ Cada sprint siguió el marco Scrum con reuniones de *planning*, *review* y *retr
 | 2      | 12-09-2025   | Implementación de API REST y base de datos     |
 | 3      | 13-09-2025   | Desarrollo de frontend web con Angular         |
 
-Incluye planificación detallada, *user stories*, líderes de aspecto, *backlog* y evidencias de ejecución (commits, issues cerrados, screenshots de GitHub Projects).
+**USER STORIES TERMINADAS**:
+
+| US ID | Título                                 | Descripción                                                                                                                                       | Story Points |
+|-------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| US03  | Crear nuevo ejercicio                  | Como entrenador, quiero crear un nuevo ejercicio para ampliar mi biblioteca personalizada                                                         | 8            |
+| US08  | Crear rutina personalizada             | Como entrenador quiero crear rutinas de entrenamiento personalizadas para mis clientes para adaptar los ejercicios según sus objetivos            | 8            |
+| US04  | Asignar rutina a clientes              | Como entrenador, quiero asignar una rutina a uno o más clientes para personalizar su plan de entrenamiento                                        | 8            |
+| US06  | Ver progreso de clientes               | Como entrenador, quiero ver el progreso de cada cliente para evaluar sus resultados                                                               | 8            |
+| US22  | Registro completo con rol              | Como usuario quiero registrarme con mis datos completos y rol específico para personalizar mi experiencia como entrenador o deportista            | 8            |
+| US16  | Ver rutinas organizadas                | Como deportista quiero ver mis rutinas organizadas por fecha y tipo para seguir un plan estructurado                                              | 8            |
+| US17  | Ver detalles de rutina                 | Como deportista quiero consultar los detalles de cada rutina para ejecutar correctamente los ejercicios                                           | 8            |
+| US01  | Buscar ejercicios en la biblioteca     | Como entrenador, quiero buscar ejercicios en la biblioteca para encontrarlos rápidamente y asignarlos a una rutina                                | 5            |
 
 ---
 
@@ -131,11 +142,8 @@ Evidencia de endpoints en Swagger:
 ---
 
 ### 5.2.8. Team Collaboration Insights
-- Reuniones vía **Discord** para planificación y seguimiento.
-- Uso de **GitHub Projects** y **Issues** para la gestión de tareas.
-- Herramientas de comunicación asíncrona: Slack y correo institucional.  
-  Evidencia:  
-  `![discord.png](../../assets/discord.png)`
+
+  
 
 ---
 
