@@ -247,16 +247,10 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 
 ### 4.6.4. Web Applications User Flow Diagrams.
 
-"<img width="719" height="352" alt="image" src="https://github.com/user-attachments/assets/84d1a6f7-c4fe-41eb-9230-048a441f1df0" />"
-
-<img width="698" height="421" alt="image" src="https://github.com/user-attachments/assets/ba7f0ada-e35b-41d0-be12-d5ce3592f749" />
-
-<img width="725" height="351" alt="image" src="https://github.com/user-attachments/assets/91de79bb-3147-421e-abb8-44f37e5c076b" />
-
-<img width="718" height="380" alt="image" src="https://github.com/user-attachments/assets/ceb2133d-7d52-4dd7-926d-813105e3c3e9" />
 
 ## 4.7. Web Applications Prototyping.
 
+<img width="1464" height="898" alt="image" src="https://github.com/user-attachments/assets/6c96a9a1-eee7-4980-95ac-69c3d8bd7352" />
 
 ## 4.8. Domain-Driven Software Architecture.
 
