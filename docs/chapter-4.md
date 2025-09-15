@@ -145,6 +145,12 @@ Aquí se presentan los wireframes de la aplicación móvil de **Entrena.pe**, di
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
 
+<img width="1527" height="3494" alt="image" src="https://github.com/user-attachments/assets/8789eb52-cb9b-499e-958d-654ec233af25" />
+Link:
+[https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-1941%2C3470%2C3325%2C4518%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552](https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-1941%2C3470%2C3325%2C4518%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552)
+
+## 4.5. Mobile Applications Prototyping.
+
 <img src="https://media.discordapp.net/attachments/1411381097920462945/1417028825107402772/image.png?ex=68c8fe6f&is=68c7acef&hm=13986bace2fba14e55facdb5c0c111f221a000d3f2af3233bb16e287e91858f4&=&format=webp&quality=lossless">
 
 <img src="https://media.discordapp.net/attachments/1411381097920462945/1417028851804012585/image.png?ex=68c8fe75&is=68c7acf5&hm=943cfef590e88c939b3369e095ee8d804dfa3930092faedb061db38221bbcc67&=&format=webp&quality=lossless">
@@ -152,8 +158,6 @@ Aquí se presentan los wireframes de la aplicación móvil de **Entrena.pe**, di
 <img src="https://media.discordapp.net/attachments/1411381097920462945/1417028899312762880/image.png?ex=68c8fe80&is=68c7ad00&hm=7518b1ad728538d1dd8fc06f17a43ec5edd4a7c82e328f9ed157be139fcefe7d&=&format=webp&quality=lossless">
 
 <img src="https://media.discordapp.net/attachments/1411381097920462945/1417029075406684303/image.png?ex=68c8feaa&is=68c7ad2a&hm=29131a77b318b275c22c829bf910416a366962e02840073da463dd4f7dd4cd15&=&format=webp&quality=lossless">
-
-## 4.5. Mobile Applications Prototyping.
 
 ### 4.5.1. Android Mobile Applications Prototyping.
 
