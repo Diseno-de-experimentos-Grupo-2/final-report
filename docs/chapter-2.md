@@ -310,21 +310,22 @@ Cada fila muestra una tarea clave y su frecuencia e importancia para cada person
 
 En esta sección se describe el recorrido completo de los usuarios clave en la solución Entrena.pe , desde el primer contacto con la plataforma hasta el logro de sus objetivos principales. Se detallan las fases del viaje, emociones, pensamientos y acciones, con el fin de identificar oportunidades de mejora en la experiencia.
 
-**Segmento objetivo 1: Usuario no afiliado a gimnasio**
+**Segmento objetivo 1: Deportistas**
 
-  <img src="/assets/Carla Mendoza (4).png" >
+  <img width="989" height="559" alt="image" src="https://github.com/user-attachments/assets/604c5f9f-1684-43b3-a66c-2c6213645bf7" />
 
-**Segmento objetivo 2: Entrenador personal**
+
+**Segmento objetivo 2: Entrenador**
 
 <img src="/assets/Diego Salazar (2).png" >
 
 ### 2.3.4. Empathy Mapping.
 
-**Segmento objetivo 1: Usuario no afiliado a gimnasio**
+**Segmento objetivo 1: Deportistas**
 
   <img src="/assets/Carla Mendoza (3).png" >
 
-**Segmento objetivo 2: Entrenador personal**
+**Segmento objetivo 2: Entrenador**
 
 <img src="/assets/Diego Salazar (1).png" >
 
