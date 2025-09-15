@@ -163,7 +163,14 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Canales de interacción digital: Facebook, LinkedIn
 
 ### Resumen de entrevista:
-
+Andre entrena en un gimnasio de barrio 5 veces por semana, combinando pesas y cardio. 
+Ha trabajado con un entrenador personal de manera esporádica, pero señala que le gustaría tener un seguimiento más constante sin tener que pagar planes caros. 
+Sus metas son ganar masa muscular y mejorar su resistencia.Le motiva la sensación de progreso y las metas medibles; le desmotiva la falta de tiempo por la universidad. 
+Usa MyFitnessPal para registrar alimentación y Google Fit para pasos, pero siente que son apps aisladas. 
+Quiere un espacio donde pueda llevar rutina, nutrición y descanso en un solo lugar. 
+Valora poder chatear con un entrenador, recibir videos de ejercicios y tener recordatorios de hidratación.
+Andre pagaría por una plataforma si le garantiza planes personalizados y entrenadores verificados. 
+Considera clave que la app muestre credenciales del entrenador, reseñas y comunicación en tiempo real.
 
 - _Entrevista 2_
 
@@ -184,6 +191,11 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Canales de interacción digital: Instagram, X
 
 ### Resumen de entrevista:
+Mikaela practica crossfit 4 veces por semana en un box cerca de su casa. Nunca ha contratado un entrenador personal, pero sigue planes online. 
+Su objetivo es mejorar la técnica de levantamiento olímpico y aumentar fuerza. Se motiva con el ambiente de comunidad y retos grupales; 
+le desmotiva la monotonía y no ver resultados rápidos. Usa Strava para registrar entrenamientos y le gustaría que una app como Entrena.pe incluya retos semanales, 
+estadísticas de progreso y rankings.Le interesa recibir apoyo en nutrición y estiramientos, y poder tener videollamadas rápidas con un entrenador para corregir posturas. 
+Pagará si la app le brinda confianza en la experiencia del coach, con videos de ejemplo y seguimiento visual. Quiere integrar su smartwatch para registrar sueño e hidratación.
 
 - _Entrevista 3_
 
@@ -204,7 +216,11 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Canales de interacción digital: Instagram, X
 
 ### Resumen de entrevista:
-
+Aldair entrena calistenia en parques públicos 6 días a la semana. Ha tenido un entrenador solo en talleres ocasionales. Su meta es dominar 
+movimientos avanzados como el planche y mejorar flexibilidad.Lo motiva la superación personal y compartir logros en redes; le desmotiva la falta de 
+retroalimentación técnica. Usa Instagram para inspiración y Samsung Health para básicos, pero no tiene un registro estructurado. Quiere que la app le permita 
+subir videos de sus entrenos para recibir correcciones, tener rutinas adaptadas a espacios 
+abiertos y seguimiento de progresos en fuerza. Pagará si la plataforma ofrece entrenadores especializados en calistenia y si la interfaz es sencilla desde el smartphone.
 
 #### Segmento 2: Entrenadores.
 
@@ -227,7 +243,10 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Canales de interacción digital: Facebook, LinkedIn
 
 ### Resumen de entrevista:
-
+Jorge atiende a 12 clientes, mitad presenciales y mitad en línea. Organiza rutinas en Excel y envía videos por WhatsApp. Encuentra complicado hacer 
+seguimiento detallado y recordar los avances de cada persona. Quiere automatizar el registro de progreso y tener una agenda centralizada. 
+Valora que la plataforma le permita subir videos, programar rutinas semanales, y enviar recordatorios automáticos. Ha usado Trainerize, 
+pero le parece costoso. Estaría dispuesto a pagar una cuota si Entrena.pe le facilita la gestión de pagos, reportes de progreso y comunicación en un solo canal.
 
 - _Entrevista 2_
 
@@ -248,6 +267,11 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Canales de interacción digital: Instagram, X
 
 ### Resumen de entrevista:
+Javier trabaja 100% online desde la pandemia, con 8 clientes. Usa Google Drive para rutinas y Zoom para sesiones. 
+Lo más difícil es monitorear que sus clientes realmente hagan los ejercicios. Quiere que Entrena.pe incluya videollamadas integradas, 
+alertas de cumplimiento y feedback rápido. Le interesaría programar mensajes motivacionales automáticos. Pagará si la herramienta reduce 
+el tiempo de administración y ofrece estadísticas de cada cliente (peso, repeticiones, hábitos). Desea subir rutinas en videos cortos y enviar planes de alimentación en PDF.
+
 
 - _Entrevista 3_
 
@@ -267,7 +291,105 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - Dispositivo de preferencia: Smartphone
 - Canales de interacción digital: Instagram, X
 
+### Resumen de entrevista:
+Laura combina trabajo presencial en un gimnasio y sesiones online, con 15 clientes. 
+Usa principalmente WhatsApp y hojas impresas para el control de progreso. Siente que pierde mucho tiempo en el seguimiento individual. 
+Quiere que la plataforma permita gestionar cobros, crear plantillas de rutinas y enviar recordatorios de hidratación y descanso. Le gustaría que la app 
+tenga una sección de nutrición y evaluaciones físicas. Estaría dispuesta a pagar si la plataforma demuestra seguridad en los datos de sus clientes y 
+facilidad para programar grupos o clases colectivas. Le interesa que los entrenadores puedan personalizar y duplicar planes para diferentes usuarios.
+
 ### 2.2.3. Análisis de entrevistas.
+**Objetivo:** Identificar arquetipos de usuario y principales necesidades para el diseño de la app **Entrena.pe**, 
+basada en las entrevistas de deportistas y entrenadores.
+---
+
+## Arquetipos de Usuario
+
+###  **Arquetipo 1: El/La Progresista Saludable**
+**Ejemplo:** Andre (22), Mikaela (24)
+- **Perfil:** Jóvenes activos, buscan mejorar rendimiento físico y hábitos saludables.
+- **Motivaciones:**
+    - Progresar y medir resultados.
+    - Sentirse acompañados por un profesional.
+- **Dolores/Problemas:**
+    - Apps dispersas (rutina, nutrición, descanso no integrados).
+    - Falta de feedback constante.
+- **Necesidades clave:**
+    - Planes personalizados con seguimiento integral.
+    - Comunicación directa (chat, videollamadas) con entrenadores.
+    - Integración con wearables y retos gamificados.
+
+---
+
+### **Arquetipo 2: El/La Entrenador/a Digital**
+**Ejemplo:** Jorge (32), Javier (29)
+- **Perfil:** Entrenadores que gestionan varios clientes online o híbridos.
+- **Motivaciones:**
+    - Escalar su negocio y llegar a más clientes.
+    - Simplificar la administración.
+- **Dolores/Problemas:**
+    - Tiempo perdido en herramientas fragmentadas (Excel, WhatsApp, Zoom).
+    - Dificultad para monitorear el progreso real de los clientes.
+- **Necesidades clave:**
+    - Plataforma centralizada para rutinas, pagos y comunicación.
+    - Estadísticas automáticas de rendimiento de cada cliente.
+    - Herramientas para enviar recordatorios y contenido multimedia.
+
+---
+
+### **Arquetipo 3: El/La Motivador/a Comunitario/a**
+**Ejemplo:** Aldair (21), Laura (44)
+- **Perfil:** Personas que valoran la comunidad y la interacción social en el entrenamiento.
+- **Motivaciones:**
+    - Inspirar o ser inspirados por otros.
+    - Compartir logros y recibir retroalimentación.
+- **Dolores/Problemas:**
+    - Falta de espacios digitales para socializar el progreso.
+    - Complejidad en ofrecer/recibir correcciones técnicas.
+- **Necesidades clave:**
+    - Funciones sociales: compartir videos, retos grupales, clases colectivas.
+    - Retroalimentación visual en tiempo real.
+    - Perfiles verificables que generen confianza.
+
+---
+
+## Patrones de Comportamiento
+
+- **Integración:** Todos usan múltiples plataformas (WhatsApp, Instagram, Strava, etc.) y buscan consolidación.
+- **Valor por la credibilidad:** Entrenadores certificados, reseñas y reputación son esenciales para la confianza.
+- **Gamificación como motivación:** Retos, rankings y logros generan adherencia en deportistas jóvenes.
+- **Automatización imprescindible:** Entrenadores quieren reducir tiempo administrativo (pagos, recordatorios, plantillas).
+- **Video & feedback en tiempo real:** Necesidad transversal para corrección de técnica.
+
+---
+
+## Oportunidades para Entrena.pe
+
+1. **Plataforma Todo-en-Uno**
+    - Combinar rutinas, nutrición, descanso.
+    - Chat
+
+2. **Sistema de Credenciales y Reputación**
+    - Perfiles de entrenadores con certificaciones verificadas, ratings y reseñas.
+
+3. **Automatización Inteligente**
+    - Recordatorios automáticos de hidratación, descanso y seguimiento de objetivos.
+    - Generación de reportes para clientes y entrenadores.
+
+---
+
+## Conclusión Estratégica
+
+**Entrena.pe** debe posicionarse como una **plataforma de entrenamiento integral** que une dos mundos:
+- **Deportistas:** quieren **acompañamiento, personalización y comunidad**.
+- **Entrenadores:** necesitan **escala, eficiencia y control**.
+
+El éxito radica en diseñar una experiencia que:
+- Sea **intuitiva en móvil** (para deportistas) y robusta en web/escritorio (para entrenadores).
+- Genere **confianza y credibilidad** a través de perfiles verificados.
+- Fomente **compromiso a largo plazo** mediante gamificación y métricas de progreso.
+
+ **Insight Clave:** Entrena.pe no solo debe ser un registro de rutinas, sino un **ecosistema social y profesional** que conecte entrenadores y deportistas en un mismo espacio, simplificando la gestión y potenciando la motivación.
 
 ## 2.3. Need finding.
 En esta sección se presenta el análisis detallado de la información recolectada durante las entrevistas realizadas a los distintos perfiles involucrados en el deporte. El objetivo principal del proceso de Needfinding ha sido identificar necesidades reales, motivaciones, frustraciones y patrones de comportamiento de los usuarios para guiar el diseño de una solución centrada en ellos.<br>
