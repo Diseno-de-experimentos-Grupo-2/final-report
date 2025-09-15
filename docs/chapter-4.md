@@ -199,13 +199,21 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 
 ### 4.8.1. Software Architecture Context Diagram.
 
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417011337401204857/image.png?ex=68c8ee25&is=68c79ca5&hm=eb23a044f0cbdc0b47516a2b029aaa6c402e16a53b77f666e9038afb416f55aa&">
+
 ### 4.8.2. Software Architecture Container Diagrams.
 
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417011472877359154/image.png?ex=68c8ee45&is=68c79cc5&hm=7b09ebbdcecc7f0ae694f054f8176e33401ffee611c3e42142729e0aac19eab9&=&format=webp&quality=lossless">
+
 ### 4.8.3. Software Architecture Components Diagrams.
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417012114442420293/image.png?ex=68c8eede&is=68c79d5e&hm=9bf1080af40d7a85c56a5441ccd7a4d85fc3d495e00f727cb0a0eef0ab904f75&=&format=webp&quality=lossless">
 
 ## 4.9. Software Object-Oriented Design.
 
 ### 4.9.1. Class Diagrams.
+
+
 
 ### 4.9.2. Class Dictionary.
 
