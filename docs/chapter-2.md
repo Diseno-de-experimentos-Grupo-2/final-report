@@ -324,12 +324,14 @@ En esta sección se describe el recorrido completo de los usuarios clave en la s
 
 **Segmento objetivo 1: Deportistas**
 
-  <img width="886" height="1004" alt="image" src="https://github.com/user-attachments/assets/35a39759-b688-4df0-88ea-24f32f84c0fa" />
+<img width="813" height="947" alt="image" src="https://github.com/user-attachments/assets/60a65042-4b96-4934-b3cb-0c3741c8ff5d" />
+
 
 
 **Segmento objetivo 2: Entrenador**
 
-<img width="886" height="991" alt="image" src="https://github.com/user-attachments/assets/eda06218-78c8-4a59-bd2d-73bf2af4cfdd" />
+<img width="824" height="906" alt="image" src="https://github.com/user-attachments/assets/7fd8d9ad-97ee-476d-876d-24502d6b2a28" />
+
 
 
 ### 2.3.5. As-is Scenario Mapping.
