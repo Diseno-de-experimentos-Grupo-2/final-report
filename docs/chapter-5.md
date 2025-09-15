@@ -77,16 +77,13 @@ Cada sprint siguió el marco Scrum con reuniones de *planning*, *review* y *retr
 
 **USER STORIES TERMINADAS**:
 
-| US ID | Título                                 | Descripción                                                                                                                                       | Story Points |
-|-------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| US03  | Crear nuevo ejercicio                  | Como entrenador, quiero crear un nuevo ejercicio para ampliar mi biblioteca personalizada                                                         | 8            |
-| US08  | Crear rutina personalizada             | Como entrenador quiero crear rutinas de entrenamiento personalizadas para mis clientes para adaptar los ejercicios según sus objetivos            | 8            |
-| US04  | Asignar rutina a clientes              | Como entrenador, quiero asignar una rutina a uno o más clientes para personalizar su plan de entrenamiento                                        | 8            |
-| US06  | Ver progreso de clientes               | Como entrenador, quiero ver el progreso de cada cliente para evaluar sus resultados                                                               | 8            |
-| US22  | Registro completo con rol              | Como usuario quiero registrarme con mis datos completos y rol específico para personalizar mi experiencia como entrenador o deportista            | 8            |
-| US16  | Ver rutinas organizadas                | Como deportista quiero ver mis rutinas organizadas por fecha y tipo para seguir un plan estructurado                                              | 8            |
-| US17  | Ver detalles de rutina                 | Como deportista quiero consultar los detalles de cada rutina para ejecutar correctamente los ejercicios                                           | 8            |
-| US01  | Buscar ejercicios en la biblioteca     | Como entrenador, quiero buscar ejercicios en la biblioteca para encontrarlos rápidamente y asignarlos a una rutina                                | 5            |
+| US ID | Título                                 | Descripción                                                                                                                                       |
+|-------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| US03  | Crear nuevo ejercicio                  | Como entrenador, quiero crear un nuevo ejercicio para ampliar mi biblioteca personalizada                                                         |
+| US08  | Crear rutina personalizada             | Como entrenador quiero crear rutinas de entrenamiento personalizadas para mis clientes para adaptar los ejercicios según sus objetivos            |
+| US16  | Ver rutinas organizadas                | Como deportista quiero ver mis rutinas organizadas por fecha y tipo para seguir un plan estructurado                                              |
+| US17  | Ver detalles de rutina                 | Como deportista quiero consultar los detalles de cada rutina para ejecutar correctamente los ejercicios                                           |
+| US01  | Buscar ejercicios en la biblioteca     | Como entrenador, quiero buscar ejercicios en la biblioteca para encontrarlos rápidamente y asignarlos a una rutina                                |
 
 ---
 
