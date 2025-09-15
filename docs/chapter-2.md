@@ -472,12 +472,14 @@ Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchar
 
 **As-Is Segmento objetivo 1: Deportistas**
 
-  <img width="2518" height="1528" alt="image" src="https://github.com/user-attachments/assets/7fed0f18-3df2-4105-861f-9a22c94b0a42" />
+  <img width="2518" height="1528" alt="image" src="https://github.com/user-attachments/assets/c7fc47cc-e669-45f3-b5b2-cdce785e9909" />
+
 
 
 **As-Is Segmento objetivo 2: Entrenador**
 
-<img width="2543" height="1510" alt="image" src="https://github.com/user-attachments/assets/36c07675-7486-4574-953f-8cd574578e9c" />
+<img width="2543" height="1510" alt="image" src="https://github.com/user-attachments/assets/bb6e5f04-3338-4e4f-bc88-7e4e1626c10b" />
+
 
 
 ## 2.4. Ubiquitous Language.
