@@ -48,8 +48,6 @@
 
 ## Registro de Versiones del Informe
 
-# Registro de Versiones del Informe
-
 **Proyecto:** Entrena.pe – Informe TB1
 **Periodo de trabajo:** 04/09/2025 – 14/09/2025  
 **Integrantes del equipo:**  
@@ -269,7 +267,4 @@
 - [Bibliografía](/bibliografia.md#bibliografia)
 - [Anexos](/anexos.md#anexos)
 
-
-## Registro de Versiones del Informe
-## Project Report Collaboration Insights
 ## Student Outcome
