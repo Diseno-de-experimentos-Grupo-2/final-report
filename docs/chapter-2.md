@@ -146,17 +146,17 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 1_
 
-| Nombre               | Marco      |
-|----------------------|------------|
-| Apellido             | Nakasone   |
-| Edad                 | 22         |
-| Distrito             | San Isidro |
-| Evidencia            |            |
-| Url                  |            |
-| Inicio de entrevista |            |
-| Fin de entrevista    |            |
+| Nombre               | Andre       |
+|----------------------|-------------|
+| Apellido             | Silva       |
+| Edad                 | 22          |
+| Distrito             | La Victoria |
+| Evidencia            |             |
+| Url                  |             |
+| Inicio de entrevista |             |
+| Fin de entrevista    |             |
 
-- Distrito de residencia: San Isidro
+- Distrito de residencia: La Victoria
 - Estado civil: Soltero
 - Ocupación: Deportista
 - Dispositivo de preferencia: Laptop
@@ -167,17 +167,17 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 2_
 
-| Nombre               |                                                                                                                                                                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             |                                                                                                                                                                                                                                   |
-| Edad                 |                                                                                                                                                                                                                                   |
-| Distrito             |                                                                                                                                                                                                                                   |
-| Evidencia            |                                                                                                                                                                                                                                   |
-| Url                  |                                                                                                                                                                                                                                   |
-| Inicio de entrevista |                                                                                                                                                                                                                                   |    
-| Fin de entrevista    |                                                                                                                                                                                                                                   |
+| Nombre               | Mikaela |
+|----------------------|---------|
+| Apellido             | Montaño |
+| Edad                 | 24      |
+| Distrito             | Lince   |
+| Evidencia            |         |
+| Url                  |         |
+| Inicio de entrevista |         |    
+| Fin de entrevista    |         |
 
-- Distrito de residencia: 
+- Distrito de residencia: Lince
 - Estado civil: 
 - Ocupación: Deportista
 - Dispositivo de preferencia: Smartphone
@@ -187,18 +187,18 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 3_
 
-| Nombre               |                                                                                                                                                                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             |                                                                                                                                                                                                                                   |
-| Edad                 |                                                                                                                                                                                                                                   |
-| Distrito             |                                                                                                                                                                                                                                   |
-| Evidencia            |                                                                                                                                                                                                                                   |
-| Url                  |                                                                                                                                                                                                                                   |
-| Inicio de entrevista |                                                                                                                                                                                                                                   |    
-| Fin de entrevista    |                                                                                                                                                                                                                                   |
+| Nombre               | Aldair   |
+|----------------------|----------|
+| Apellido             | Gonzales |
+| Edad                 | 21       |
+| Distrito             | Breña    |
+| Evidencia            |          |
+| Url                  |          |
+| Inicio de entrevista |          |    
+| Fin de entrevista    |          |
 
-- Distrito de residencia:
-- Estado civil:
+- Distrito de residencia: Breña
+- Estado civil: Soltero
 - Ocupación: Deportista
 - Dispositivo de preferencia: Smartphone
 - Canales de interacción digital: Instagram, X
@@ -210,10 +210,10 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 1_
 
-| Nombre               | Marco      |
+| Nombre               | Jorge      |
 |----------------------|------------|
-| Apellido             | Nakasone   |
-| Edad                 | 22         |
+| Apellido             | Rodriguez  |
+| Edad                 | 32         |
 | Distrito             | San Isidro |
 | Evidencia            |            |
 | Url                  |            |
@@ -231,18 +231,18 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 2_
 
-| Nombre               |                                                                                                                                                                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             |                                                                                                                                                                                                                                   |
-| Edad                 |                                                                                                                                                                                                                                   |
-| Distrito             |                                                                                                                                                                                                                                   |
-| Evidencia            |                                                                                                                                                                                                                                   |
-| Url                  |                                                                                                                                                                                                                                   |
-| Inicio de entrevista |                                                                                                                                                                                                                                   |    
-| Fin de entrevista    |                                                                                                                                                                                                                                   |
+| Nombre               | Javier        |
+|----------------------|---------------|
+| Apellido             | Ibarra        |
+| Edad                 | 29            |
+| Distrito             | Independencia |
+| Evidencia            |               |
+| Url                  |               |
+| Inicio de entrevista |               |    
+| Fin de entrevista    |               |
 
-- Distrito de residencia:
-- Estado civil:
+- Distrito de residencia: Independencia
+- Estado civil: Soltero
 - Ocupación: Entrenador
 - Dispositivo de preferencia: Smartphone
 - Canales de interacción digital: Instagram, X
@@ -251,18 +251,18 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 3_
 
-| Nombre               |                                                                                                                                                                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             |                                                                                                                                                                                                                                   |
-| Edad                 |                                                                                                                                                                                                                                   |
-| Distrito             |                                                                                                                                                                                                                                   |
-| Evidencia            |                                                                                                                                                                                                                                   |
-| Url                  |                                                                                                                                                                                                                                   |
-| Inicio de entrevista |                                                                                                                                                                                                                                   |    
-| Fin de entrevista    |                                                                                                                                                                                                                                   |
+| Nombre               | Laura      |
+|----------------------|------------|
+| Apellido             | Ramirez    |
+| Edad                 | 34         |
+| Distrito             | San Miguel |
+| Evidencia            |            |
+| Url                  |            |
+| Inicio de entrevista |            |    
+| Fin de entrevista    |            |
 
-- Distrito de residencia:
-- Estado civil:
+- Distrito de residencia: San Miguel
+- Estado civil: Soltera
 - Ocupación: Entrenador
 - Dispositivo de preferencia: Smartphone
 - Canales de interacción digital: Instagram, X
