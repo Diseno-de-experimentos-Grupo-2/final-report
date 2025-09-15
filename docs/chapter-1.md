@@ -21,6 +21,15 @@ En Entrena.pe aspiramos a ser la plataforma líder en comunicación y gestión d
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+
+|                         | Apellido y Nombre                                 | Carrera                | Acerca de                                                                                                                                                                                          | Habilidades                                                                                                                                                                        |
+|-------------------------|---------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![img_1.png](img_1.png) | Maita Falckenheiner, Romina Guadalupe(u202213765) | Ingeniería de Software | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                     | Liderazgo, competitividad y organización.                                                                                                                                          |
+| ![img_2.png](img_2.png) | Cieza Rojas, Marco Antonio(u20221f614)            | Ingeniería de Software | Soy estudiante de Ingeniería de Software, me gusta el desarrollo web y la gestión de proyectos.                                                                                                    | Trabajo en equipo, comunicación y gestión de proyectos.                                                                                                                            |
+| ![img_3.png](img_3.png) | Torres Flores, Paolo Alessandro(u20221f613)       | Ingeniería de Software | Soy un estudiante de 5to ciclo con afán de mejorar cada día que pasa. Tengo muchas aspiraciones, ya sea en mi carrera como personalmente, y lucho diariamente para acercarme cada vez más a ellas. | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
+|                         |                                                   |                        |                                                                                                                                                                                                    |                                                                                                                                                                                    | 
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
