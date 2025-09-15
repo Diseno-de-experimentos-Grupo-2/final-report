@@ -146,16 +146,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 1_
 
-| Nombre               | Andre       |
-|----------------------|-------------|
-| Apellido             | Silva       |
-| Edad                 | 22          |
-| Distrito             | La Victoria |
-| Evidencia            | <img width="1319" height="684" alt="image" src="https://github.com/user-attachments/assets/048733e9-8c5c-4647-96e7-d0e63d7d7b9a" />
-            |
-| Url                  |             |
-| Inicio de entrevista |             |
-| Fin de entrevista    |             |
+| Nombre               | Andre                                                                                                                               |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Silva                                                                                                                               |
+| Edad                 | 22                                                                                                                                  |
+| Distrito             | La Victoria                                                                                                                         |
+| Evidencia            | <img width="1319" height="684" alt="image" src="https://github.com/user-attachments/assets/048733e9-8c5c-4647-96e7-d0e63d7d7b9a" /> |
+| Url                  |                                                                                                                                     |
+| Inicio de entrevista |                                                                                                                                     |
+| Fin de entrevista    |                                                                                                                                     |
 
 - Distrito de residencia: La Victoria
 - Estado civil: Soltero
@@ -168,16 +167,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 2_
 
-| Nombre               | Mikaela |
-|----------------------|---------|
-| Apellido             | Montaño |
-| Edad                 | 24      |
-| Distrito             | Lince   |
-| Evidencia            | <img width="744" height="392" alt="image" src="https://github.com/user-attachments/assets/5b18321c-09b2-45ed-a662-a9b35da713b6" />
-        |
-| Url                  |         |
-| Inicio de entrevista |         |    
-| Fin de entrevista    |         |
+| Nombre               | Mikaela                                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Montaño                                                                                                                            |
+| Edad                 | 24                                                                                                                                 |
+| Distrito             | Lince                                                                                                                              |
+| Evidencia            | <img width="744" height="392" alt="image" src="https://github.com/user-attachments/assets/5b18321c-09b2-45ed-a662-a9b35da713b6" /> |
+| Url                  |                                                                                                                                    |
+| Inicio de entrevista |                                                                                                                                    |    
+| Fin de entrevista    |                                                                                                                                    |
 
 - Distrito de residencia: Lince
 - Estado civil: 
@@ -189,16 +187,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 3_
 
-| Nombre               | Aldair   |
-|----------------------|----------|
-| Apellido             | Gonzales |
-| Edad                 | 21       |
-| Distrito             | Breña    |
-| Evidencia            | <img width="1146" height="680" alt="image" src="https://github.com/user-attachments/assets/c49980e3-2021-4ca6-965e-c7e526a42fd5" />
-         |
-| Url                  |          |
-| Inicio de entrevista |          |    
-| Fin de entrevista    |          |
+| Nombre               | Aldair                                                                                                                              |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Gonzales                                                                                                                            |
+| Edad                 | 21                                                                                                                                  |
+| Distrito             | Breña                                                                                                                               |
+| Evidencia            | <img width="1146" height="680" alt="image" src="https://github.com/user-attachments/assets/c49980e3-2021-4ca6-965e-c7e526a42fd5" /> |
+| Url                  |                                                                                                                                     |
+| Inicio de entrevista |                                                                                                                                     |    
+| Fin de entrevista    |                                                                                                                                     |
 
 - Distrito de residencia: Breña
 - Estado civil: Soltero
@@ -213,16 +210,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 1_
 
-| Nombre               | Jorge      |
-|----------------------|------------|
-| Apellido             | Rodriguez  |
-| Edad                 | 32         |
-| Distrito             | San Isidro |
-| Evidencia            | <img width="748" height="395" alt="image" src="https://github.com/user-attachments/assets/97ea7eb3-2b6b-4c0e-b85c-218a9a4382b4" />
-           |
-| Url                  |            |
-| Inicio de entrevista |            |
-| Fin de entrevista    |            |
+| Nombre               | Jorge                                                                                                                              |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Rodriguez                                                                                                                          |
+| Edad                 | 32                                                                                                                                 |
+| Distrito             | San Isidro                                                                                                                         |
+| Evidencia            | <img width="748" height="395" alt="image" src="https://github.com/user-attachments/assets/97ea7eb3-2b6b-4c0e-b85c-218a9a4382b4" /> |
+| Url                  |                                                                                                                                    |
+| Inicio de entrevista |                                                                                                                                    |
+| Fin de entrevista    |                                                                                                                                    |
 
 - Distrito de residencia: San Isidro
 - Estado civil: Soltero
@@ -235,16 +231,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 2_
 
-| Nombre               | Javier        |
-|----------------------|---------------|
-| Apellido             | Ibarra        |
-| Edad                 | 29            |
-| Distrito             | Independencia |
-| Evidencia            | <img width="1140" height="588" alt="image" src="https://github.com/user-attachments/assets/978bad06-8d3b-4295-9b03-6dd472b44018" />
-              |
-| Url                  |               |
-| Inicio de entrevista |               |    
-| Fin de entrevista    |               |
+| Nombre               | Javier                                                                                                                              |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Ibarra                                                                                                                              |
+| Edad                 | 29                                                                                                                                  |
+| Distrito             | Independencia                                                                                                                       |
+| Evidencia            | <img width="1140" height="588" alt="image" src="https://github.com/user-attachments/assets/978bad06-8d3b-4295-9b03-6dd472b44018" /> |
+| Url                  |                                                                                                                                     |
+| Inicio de entrevista |                                                                                                                                     |    
+| Fin de entrevista    |                                                                                                                                     |
 
 - Distrito de residencia: Independencia
 - Estado civil: Soltero
@@ -256,16 +251,15 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 - _Entrevista 3_
 
-| Nombre               | Laura      |
-|----------------------|------------|
-| Apellido             | Ramirez    |
-| Edad                 | 44         |
-| Distrito             | San Miguel |
-| Evidencia            | <img width="1341" height="375" alt="image" src="https://github.com/user-attachments/assets/45eb4252-b0a2-4dff-aa30-909a45216592" />
-           |
-| Url                  |            |
-| Inicio de entrevista |            |    
-| Fin de entrevista    |            |
+| Nombre               | Laura                                                                                                                               |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Ramirez                                                                                                                             |
+| Edad                 | 44                                                                                                                                  |
+| Distrito             | San Miguel                                                                                                                          |
+| Evidencia            | <img width="1341" height="375" alt="image" src="https://github.com/user-attachments/assets/45eb4252-b0a2-4dff-aa30-909a45216592" /> |
+| Url                  |                                                                                                                                     |
+| Inicio de entrevista |                                                                                                                                     |    
+| Fin de entrevista    |                                                                                                                                     |
 
 - Distrito de residencia: San Miguel
 - Estado civil: Casada
