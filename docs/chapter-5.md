@@ -139,6 +139,177 @@ Evidencia de endpoints en Swagger:
 
 ### 5.2.7. RESTful API documentation
 
+## **1. Obtener rutina por ID**
+**GET** `/api/v1/routines/{routineId}`  
+🔹 **Descripción:** Retorna la información detallada de una rutina específica.  
+🔹 **Parámetros de ruta:**
+- `routineId` *(UUID / Long)* → Identificador único de la rutina.
+
+🔹 **Respuesta exitosa (200):**
+```json
+{
+  "id": "123",
+  "clientId": "456",
+  "trainerId": "789",
+  "name": "Rutina Hipertrofia Pecho",
+  "items": [
+    {
+      "id": "1",
+      "exerciseId": "E100",
+      "sets": 4,
+      "reps": 10
+    }
+  ]
+}
+```
+
+---
+
+## **2. Actualizar rutina**
+**PUT** `/api/v1/routines/{routineId}`  
+🔹 **Descripción:** Actualiza los datos generales de una rutina (nombre, estado, etc.).
+🔹 **Parámetros de ruta:**
+- `routineId` *(UUID / Long)* → Identificador único de la rutina.
+
+🔹 **Body (ejemplo):**
+```json
+{
+  "name": "Rutina Full Body Avanzada",
+  "trainerId": "789"
+}
+```
+
+🔹 **Respuesta exitosa (200):**
+```json
+{
+  "message": "Routine updated successfully"
+}
+```
+
+---
+
+## **3. Eliminar rutina**
+**DELETE** `/api/v1/routines/{routineId}`  
+🔹 **Descripción:** Elimina una rutina completa y sus ejercicios asociados.
+🔹 **Parámetros de ruta:**
+- `routineId` *(UUID / Long)* → Identificador único de la rutina.
+
+🔹 **Respuesta exitosa (204):** Sin contenido.
+🔹 **Errores comunes:** 404 Not Found si no existe.
+
+---
+
+## **4. Actualizar un ejercicio dentro de una rutina**
+**PUT** `/api/v1/routines/{routineId}/exercises/{routineItemId}`  
+🔹 **Descripción:** Actualiza un ejercicio ya asignado dentro de la rutina.
+🔹 **Parámetros de ruta:**
+- `routineId` *(UUID / Long)* → Identificador de la rutina.
+- `routineItemId` *(UUID / Long)* → Identificador del ejercicio dentro de la rutina.
+
+🔹 **Body (ejemplo):**
+```json
+{
+  "sets": 5,
+  "reps": 12
+}
+```
+
+🔹 **Respuesta exitosa (200):**
+```json
+{
+  "message": "Routine exercise updated successfully"
+}
+```
+
+---
+
+## **5. Eliminar un ejercicio de la rutina**
+**DELETE** `/api/v1/routines/{routineId}/exercises/{routineItemId}`  
+🔹 **Descripción:** Quita un ejercicio de la rutina.
+🔹 **Parámetros de ruta:**
+- `routineId` *(UUID / Long)* → Identificador de la rutina.
+- `routineItemId` *(UUID / Long)* → Identificador del ejercicio dentro de la rutina.
+
+🔹 **Respuesta exitosa (204):** Sin contenido.
+
+---
+
+## **6. Listar todas las rutinas**
+**GET** `/api/v1/routines`  
+🔹 **Descripción:** Retorna todas las rutinas registradas en el sistema.
+
+🔹 **Respuesta exitosa (200):**
+```json
+[
+  { "id": "123", "name": "Rutina Piernas" },
+  { "id": "124", "name": "Rutina Espalda" }
+]
+```
+
+---
+
+## **7. Crear nueva rutina**
+**POST** `/api/v1/routines`  
+🔹 **Descripción:** Crea una nueva rutina para un cliente.
+
+🔹 **Body (ejemplo):**
+```json
+{
+  "clientId": "456",
+  "trainerId": "789",
+  "name": "Rutina de Principiante"
+}
+```
+
+🔹 **Respuesta exitosa (201):**
+```json
+{
+  "id": "125",
+  "message": "Routine created successfully"
+}
+```
+
+---
+
+## **8. Agregar ejercicios a una rutina**
+**POST** `/api/v1/routines/{routineId}/exercises`  
+🔹 **Descripción:** Inserta uno o más ejercicios en una rutina existente.
+🔹 **Parámetros de ruta:**
+- `routineId` *(UUID / Long)* → Identificador de la rutina.
+
+🔹 **Body (ejemplo):**
+```json
+[
+  { "exerciseId": "E101", "sets": 4, "reps": 12 },
+  { "exerciseId": "E102", "sets": 3, "reps": 15 }
+]
+```
+
+🔹 **Respuesta exitosa (201):**
+```json
+{
+  "message": "Exercises added successfully"
+}
+```
+
+---
+
+## **9. Obtener rutinas de un cliente**
+**GET** `/api/v1/routines/client/{clientId}`  
+🔹 **Descripción:** Devuelve todas las rutinas asignadas a un cliente específico.
+🔹 **Parámetros de ruta:**
+- `clientId` *(UUID / Long)* → Identificador del cliente.
+
+🔹 **Respuesta exitosa (200):**
+```json
+[
+  {
+    "id": "123",
+    "name": "Rutina Cardio",
+    "trainerId": "789"
+  }
+]
+```
 
 ---
 
@@ -149,6 +320,4 @@ Evidencia de endpoints en Swagger:
 ---
 
 ## 5.3. Video About-the-Product
-Video demostrativo de las principales funcionalidades del producto, incluyendo la landing page, la aplicación web y la aplicación móvil.  
-
-
+Video demostrativo de las principales funcionalidades del producto, incluyendo la landing page, la aplicación web y la aplicación móvil.
