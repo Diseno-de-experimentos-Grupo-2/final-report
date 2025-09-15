@@ -61,12 +61,11 @@ La **landing page** se despliega mediante **GitHub Pages**, mientras que la API 
 - **Landing page desplegado:** https://diseno-de-experimentos-grupo-2.github.io/entrena.pe---landing/
 
 Evidencias de despliegue:  
-
+<img width="1595" height="848" alt="image" src="https://github.com/user-attachments/assets/e03a7a04-f088-4a37-ade8-7149ef7ea016" />
 
 ---
 
 ## 5.2. Product Implementation & Deployment
-
 ### 5.2.1. Sprint Backlogs
 Cada sprint siguió el marco Scrum con reuniones de *planning*, *review* y *retrospective*.
 
@@ -83,6 +82,7 @@ Incluye planificación detallada, *user stories*, líderes de aspecto, *backlog*
 ### 5.2.2. Implemented Landing Page Evidence
 Se desarrolló una **landing page responsive** para presentar el producto, optimizada para SEO y compatible con dispositivos móviles.  
 Evidencia:  
+<img width="1599" height="849" alt="image" src="https://github.com/user-attachments/assets/1b367e3f-b339-4fb3-9962-ee9fff88c4b4" />
 
 
 ---
@@ -91,6 +91,13 @@ Evidencia:
 Aplicación web construida en **Angular**, con diseño modular y consumo de la API REST.  
 Evidencia de pantallas clave:  
 
+<img width="1532" height="701" alt="image" src="https://github.com/user-attachments/assets/e5bdf858-7f7e-4b2b-b268-7e80277df46e" />
+
+<img width="1641" height="592" alt="image" src="https://github.com/user-attachments/assets/4ddabae8-61be-471d-96bf-50e26ea44b10" />
+
+<img width="1641" height="592" alt="image" src="https://github.com/user-attachments/assets/282ff04c-ae2c-487e-8900-54b035c76133" />
+
+<img width="1382" height="729" alt="image" src="https://github.com/user-attachments/assets/9715698d-9723-40b7-b7e3-17911b81391b" />
 
 ---
 
@@ -113,12 +120,13 @@ Evidencia de instalación y pantallas:
 API desarrollada en **SpringBoot**, con base de datos en **MySQL**.  
 Evidencia de endpoints en Swagger: 
 
+<img width="1458" height="545" alt="image" src="https://github.com/user-attachments/assets/3aaed504-c190-4fec-a885-b1d8c213bdf4" />
+<img width="1450" height="329" alt="image" src="https://github.com/user-attachments/assets/b5a9b545-9d97-45b7-a247-425f353b840f" />
 
 ---
 
 ### 5.2.7. RESTful API documentation
-Documentación con **Swagger**:  
-[https://api.keepitfresh.com/docs](https://api.keepitfresh.com/docs)
+
 
 ---
 
