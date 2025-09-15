@@ -151,7 +151,8 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Apellido             | Silva       |
 | Edad                 | 22          |
 | Distrito             | La Victoria |
-| Evidencia            |             |
+| Evidencia            | <img width="1319" height="684" alt="image" src="https://github.com/user-attachments/assets/048733e9-8c5c-4647-96e7-d0e63d7d7b9a" />
+            |
 | Url                  |             |
 | Inicio de entrevista |             |
 | Fin de entrevista    |             |
@@ -172,7 +173,8 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Apellido             | Montaño |
 | Edad                 | 24      |
 | Distrito             | Lince   |
-| Evidencia            |         |
+| Evidencia            | <img width="744" height="392" alt="image" src="https://github.com/user-attachments/assets/5b18321c-09b2-45ed-a662-a9b35da713b6" />
+        |
 | Url                  |         |
 | Inicio de entrevista |         |    
 | Fin de entrevista    |         |
@@ -192,7 +194,8 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Apellido             | Gonzales |
 | Edad                 | 21       |
 | Distrito             | Breña    |
-| Evidencia            |          |
+| Evidencia            | <img width="1146" height="680" alt="image" src="https://github.com/user-attachments/assets/c49980e3-2021-4ca6-965e-c7e526a42fd5" />
+         |
 | Url                  |          |
 | Inicio de entrevista |          |    
 | Fin de entrevista    |          |
@@ -215,7 +218,8 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Apellido             | Rodriguez  |
 | Edad                 | 32         |
 | Distrito             | San Isidro |
-| Evidencia            |            |
+| Evidencia            | <img width="748" height="395" alt="image" src="https://github.com/user-attachments/assets/97ea7eb3-2b6b-4c0e-b85c-218a9a4382b4" />
+           |
 | Url                  |            |
 | Inicio de entrevista |            |
 | Fin de entrevista    |            |
@@ -236,7 +240,8 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Apellido             | Ibarra        |
 | Edad                 | 29            |
 | Distrito             | Independencia |
-| Evidencia            |               |
+| Evidencia            | <img width="1140" height="588" alt="image" src="https://github.com/user-attachments/assets/978bad06-8d3b-4295-9b03-6dd472b44018" />
+              |
 | Url                  |               |
 | Inicio de entrevista |               |    
 | Fin de entrevista    |               |
@@ -254,15 +259,16 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 | Nombre               | Laura      |
 |----------------------|------------|
 | Apellido             | Ramirez    |
-| Edad                 | 34         |
+| Edad                 | 44         |
 | Distrito             | San Miguel |
-| Evidencia            |            |
+| Evidencia            | <img width="1341" height="375" alt="image" src="https://github.com/user-attachments/assets/45eb4252-b0a2-4dff-aa30-909a45216592" />
+           |
 | Url                  |            |
 | Inicio de entrevista |            |    
 | Fin de entrevista    |            |
 
 - Distrito de residencia: San Miguel
-- Estado civil: Soltera
+- Estado civil: Casada
 - Ocupación: Entrenador
 - Dispositivo de preferencia: Smartphone
 - Canales de interacción digital: Instagram, X
