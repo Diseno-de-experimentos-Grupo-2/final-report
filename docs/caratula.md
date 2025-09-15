@@ -48,6 +48,37 @@
 
 ## Registro de Versiones del Informe
 
+# Registro de Versiones del Informe
+
+**Proyecto:** Entrena.pe – Informe TB1
+**Periodo de trabajo:** 04/09/2025 – 14/09/2025  
+**Integrantes del equipo:**  
+- **Paolo Torres** – Líder de UX / UI  
+- **Romina Maita** – Desarrolladora Backend  
+- **Fatima Asmad** – Desarrolladora Frontend  
+- **Marco Nakasone** – Analista de Requerimientos  
+
+---
+
+## Historial de Versiones
+
+| Versión | Fecha       | Responsable(s)            | Descripción de cambios                                                                                 |
+|--------:|------------:|---------------------------|---------------------------------------------------------------------------------------------------------|
+| 0.1     | 04/09/2025  | Marco                     | Creación de estructura inicial del documento y carátula. Agregado el índice general y capítulos preliminares. |
+| 0.2     | 05/09/2025  | Marco, Paolo              | Redacción de **Capítulo I: Introducción**, secciones 1.1 y 1.2. Incorporación de perfiles de la startup y proceso Lean UX. |
+| 0.3     | 06/09/2025  | Marco                     | Avance en 1.3 (Segmentos objetivo) y elaboración inicial del **Capítulo II: Requirements Elicitation & Analysis**. |
+| 0.4     | 07/09/2025  | Marco, Paolo              | Inclusión de entrevistas: diseño y registro. Creación de User Personas, Task Matrix y Journey Mapping. |
+| 0.5     | 08/09/2025  | Paolo                     | Desarrollo de Empathy Mapping, As-Is Scenario Mapping y Ubiquitous Language. Revisión general de redacción. |
+| 0.6     | 09/09/2025  | Romina, Fatima            | Redacción de **Capítulo III: Requirements Specification**, incluyendo To-Be Scenarios, User Stories y Product Backlog. |
+| 0.7     | 10/09/2025  | Paolo                     | Avance de Impact Mapping. Inicio de **Capítulo IV: Product Design**, con Style Guidelines y Information Architecture. |
+| 0.8     | 11/09/2025  | Paolo, Fatima             | Elaboración de Landing Page Wireframe y Mock-up. Desarrollo de Mobile Applications Wireframes y Wireflows. |
+| 0.9     | 12/09/2025  | Fatima, Romina            | Creación de Web Applications Wireframes, Wireflows y Mock-ups. Adición de Domain-Driven Software Architecture (contexto y contenedores). |
+| 1.0     | 13/09/2025  | Romina                    | Diseño de Class Diagrams, Class Dictionary y Database Diagram. Inicio de Capítulo V con Software Configuration Management. |
+| 1.1     | 14/09/2025  | Todo el equipo            | Revisión final, corrección de estilo y ortografía. Inclusión de evidencia de implementación (Landing, Frontend, Backend, API), bibliografía y anexos. Preparación para entrega. |
+
+---
+
+
 ## Project Report Collaboration Insights
 <img width="908" height="455" alt="image" src="https://github.com/user-attachments/assets/04cad86f-a510-4851-adff-0ccd40927754" />
 
