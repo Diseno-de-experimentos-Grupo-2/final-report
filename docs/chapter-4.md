@@ -103,12 +103,20 @@ Incluye:
 - Sección de beneficios para deportistas y entrenadores.
 - Testimonios de usuarios.
 - CTA final para unirse a la comunidad.
+
 ### 4.3.1. Landing Page Wireframe.
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417025287815823372/image.png?ex=68c8fb23&is=68c7a9a3&hm=d2608acd3572d837fcfd11b928b5e31ecd4bab60fcc2d94da689bb6a081d0885&=&format=webp&quality=lossless">
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417025651185156168/image.png?ex=68c8fb7a&is=68c7a9fa&hm=0ee4970e7ca9ae9c7380839a3b5d027b23fefd783ea5fc3598f6bbc21ca70933&=&format=webp&quality=lossless">
 
 ### 4.3.2. Landing Page Mock-up.
 
-## 4.4. Mobile Applications UX/UI Design.
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417022607894773873/image.png?ex=68c8f8a4&is=68c7a724&hm=3daceb5444e2b7b684dcfbed43cf27cd052e6e099555e0770fa7f6208e2d5369&=&format=webp&quality=lossless">
 
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417022667478794300/image.png?ex=68c8f8b2&is=68c7a732&hm=773416a57f056e57f3d90dff62930e87a6f809c0aa8233810a4b7625b82a8ce3&=&format=webp&quality=lossless">
+
+## 4.4. Mobile Applications UX/UI Design.
 
 ### 4.4.1. Mobile Applications Wireframes.
 Aquí se presentan los wireframes de la aplicación móvil de **Entrena.pe**, diseñados para ofrecer una experiencia de usuario intuitiva y atractiva. Los wireframes incluyen las siguientes pantallas clave:
@@ -137,11 +145,39 @@ Aquí se presentan los wireframes de la aplicación móvil de **Entrena.pe**, di
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
 
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417028825107402772/image.png?ex=68c8fe6f&is=68c7acef&hm=13986bace2fba14e55facdb5c0c111f221a000d3f2af3233bb16e287e91858f4&=&format=webp&quality=lossless">
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417028851804012585/image.png?ex=68c8fe75&is=68c7acf5&hm=943cfef590e88c939b3369e095ee8d804dfa3930092faedb061db38221bbcc67&=&format=webp&quality=lossless">
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417028899312762880/image.png?ex=68c8fe80&is=68c7ad00&hm=7518b1ad728538d1dd8fc06f17a43ec5edd4a7c82e328f9ed157be139fcefe7d&=&format=webp&quality=lossless">
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417029075406684303/image.png?ex=68c8feaa&is=68c7ad2a&hm=29131a77b318b275c22c829bf910416a366962e02840073da463dd4f7dd4cd15&=&format=webp&quality=lossless">
+
 ## 4.5. Mobile Applications Prototyping.
 
 ### 4.5.1. Android Mobile Applications Prototyping.
 
+Hemos utilizado Flutter para el desarrollo movil lo que permite crear aplicaciones nativas para Android e iOS desde una única base de código. A continuación, se presentan los diseños prototipados para ambas plataformas.
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417005452058820648/image.png?ex=68c8e8aa&is=68c7972a&hm=a0d446347c9a16fe40aebb4ea74fe09749bceecc9712fedd1a8e3e90cbf97afe&=&format=webp&quality=lossless">
+
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417005490491359242/image.png?ex=68c8e8b3&is=68c79733&hm=46ed3f500fd66733bde6381c50f23e54d97903640da215defa76c05bfae87135&">
+
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417005521218703451/image.png?ex=68c8e8ba&is=68c7973a&hm=16e5d0a703b140c90a1bebb5a13aa8b22d73cd6448328580ea0e367928403fe7&">
+
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417005558887743621/image.png?ex=68c8e8c3&is=68c79743&hm=6a72fbb22690ebc88074d70481e817385e4300ace9e979f74b0f6138ad57b774&">
+
+
 ### 4.5.2. iOS Mobile Applications Prototyping.
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417005452058820648/image.png?ex=68c8e8aa&is=68c7972a&hm=a0d446347c9a16fe40aebb4ea74fe09749bceecc9712fedd1a8e3e90cbf97afe&=&format=webp&quality=lossless">
+
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417005490491359242/image.png?ex=68c8e8b3&is=68c79733&hm=46ed3f500fd66733bde6381c50f23e54d97903640da215defa76c05bfae87135&">
+
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417005521218703451/image.png?ex=68c8e8ba&is=68c7973a&hm=16e5d0a703b140c90a1bebb5a13aa8b22d73cd6448328580ea0e367928403fe7&">
+
+<img src="https://cdn.discordapp.com/attachments/1411381097920462945/1417005558887743621/image.png?ex=68c8e8c3&is=68c79743&hm=6a72fbb22690ebc88074d70481e817385e4300ace9e979f74b0f6138ad57b774&">
+
 
 ## 4.6. Web Applications UX/UI Design.
 En esta sección se detallan los diseños creados para la plataforma web de **Entrena.pe**, enfocándose en la experiencia del usuario (UX) y la interfaz de usuario (UI). Los diseños buscan ofrecer una navegación intuitiva, accesible y atractiva, alineada con las necesidades tanto de los deportistas como de los entrenadores.
@@ -168,6 +204,22 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 
 ### 4.6.2. Web Applications Wireflow Diagrams.
 
+- Inicio de Sesión/Registro
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417020926440243230/image.png?ex=68c8f713&is=68c7a593&hm=7fa6aa851e9709699375b5d39067ed4b822dfcfdec59c374a7b0de298b71d515&=&format=webp&quality=lossless">
+
+- Perfil de Usuario
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417021497708642325/image.png?ex=68c8f79c&is=68c7a61c&hm=e376235d5281a17c03f0f43f16a1e99b03d111d93dae346338b83c23672471b2&=&format=webp&quality=lossless">
+
+- Rutinas
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417021902639071232/image.png?ex=68c8f7fc&is=68c7a67c&hm=dc4682635029f645ef3522263a4d8129bbac08f9eb739438cf9538974bb0f528&=&format=webp&quality=lossless">
+
+- Calendario
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417022053118119978/image.png?ex=68c8f820&is=68c7a6a0&hm=684ab9c15bbe607d03d4876d406f7e1dcac159ed665e12d68165a1ac5e982436&=&format=webp&quality=lossless">
+
 ### 4.6.3. Web Applications Mock-ups.
 
 - **Pantalla de Inicio de Sesión/Registro:** Permite a los usuarios acceder a sus cuentas o crear una nueva.
@@ -188,7 +240,6 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 - **Pantalla de Calendario:** Permite a los usuarios programar y gestionar sus sesiones de entrenamiento.
 
 <img src="https://media.discordapp.net/attachments/1411381097920462945/1417001435421343835/image.png?ex=68c8e4ec&is=68c7936c&hm=86b669192763f2589a03c36686b685ccd019173517ac305fa4a12a5173209c42&=&format=webp&quality=lossless">
-
 
 ### 4.6.4. Web Applications User Flow Diagrams.
 
@@ -290,9 +341,6 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 - `id: int`
 - `content: string`
 - `date: Date`
-
-### Métodos
-- *(ninguno definido explícitamente, pero se podrían incluir publicar/editar en el futuro)*
 
 ### Relaciones
 - Creado por un **Trainer**
