@@ -15,3 +15,4 @@ Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchar
 ## 3.2. User Stories.
 ## 3.3. Product Backlog.
 ## 3.4. Impact Mapping.
+<img width="765" height="1564" alt="image" src="https://github.com/user-attachments/assets/1e0300d0-1536-475d-9d33-a3fc273deb0b" />
