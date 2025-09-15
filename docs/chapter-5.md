@@ -226,7 +226,8 @@ Se detallan los principales endpoints implementados para cada uno de los módulo
 
 ### 5.2.8. Team Collaboration Insights
 
-  <img width="902" height="464" alt="image" src="https://github.com/user-attachments/assets/ab21d248-fef2-4d04-8832-b9ef588dd71e" />
+<img width="908" height="455" alt="image" src="https://github.com/user-attachments/assets/ea1c5638-e154-43c7-8a22-96e6e708f6b9" />
+
 
 
 ---
