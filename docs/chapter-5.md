@@ -111,10 +111,61 @@ Evidencia de pantallas clave:
 ---
 
 ### 5.2.4. Acuerdo de Servicio – SaaS
-Se redactó un **Service Level Agreement (SLA)** que define:
-- Nivel de disponibilidad: 99.5 %.
-- Políticas de soporte y mantenimiento.
-- Responsabilidades del proveedor y del cliente.
+Se redactó un **Service Level Agreement (SLA)** que se define de la siguiente forma:
+
+## Service Level Agreement (SLA) – Entrena.pe
+
+## 1. Partes del Acuerdo
+Este SLA se celebra entre:  
+- **Proveedor del Servicio:** Entrena.pe (“Proveedor”).  
+- **Cliente/Usuario Final:** Toda persona o entidad que utilice la aplicación web (“Cliente”).
+
+## 2. Objeto
+Definir los niveles mínimos de calidad, disponibilidad y soporte del servicio de la aplicación web de entrenamientos rutinarios, en adelante “la App”.
+
+## 3. Alcance del Servicio
+El Proveedor ofrece:  
+- Acceso a la plataforma web para creación, seguimiento y registro de rutinas de entrenamiento.  
+- Almacenamiento seguro de datos de usuario y progreso.  
+- Actualizaciones periódicas para mantenimiento, mejoras y seguridad.
+
+## 4. Disponibilidad del Servicio
+- **Uptime garantizado:** 99,5 % mensual.  
+- **Ventanas de mantenimiento programado:** se notificarán con al menos 48 horas de anticipación y no excederán 4 horas continuas, preferiblemente en horario de baja demanda.
+
+## 5. Soporte y Respuesta
+- **Horario de soporte:** Lunes a viernes de 9:00 a 18:00 (hora local).  
+- **Tiempo de primera respuesta:**  
+  - Incidencias críticas (caída total del servicio): ≤ 2 horas hábiles.  
+  - Incidencias mayores (funcionalidad clave afectada): ≤ 8 horas hábiles.  
+  - Consultas generales: ≤ 24 horas hábiles.  
+- **Medios de contacto:** correo electrónico [soporte@entrena.pe] y formulario dentro de la App.
+
+## 6. Mantenimiento y Actualizaciones
+- Mantenimiento preventivo y correctivo.  
+- Notificación previa de cambios que puedan afectar la disponibilidad.
+
+## 7. Seguridad y Protección de Datos
+- Cifrado de datos en tránsito (HTTPS/SSL).  
+- Cumplimiento de la normativa vigente de protección de datos (p. ej. GDPR/LFPDPPP según región).  
+- Respaldo de datos diario con retención mínima de 7 días.
+
+## 8. Compensaciones por Incumplimiento
+En caso de no alcanzar el nivel de disponibilidad garantizado (99,5 % mensual), el Cliente puede solicitar:  
+- Crédito del 5 % del pago mensual por cada 1 % de incumplimiento, hasta un máximo del 25 % del valor mensual.
+
+## 9. Exclusiones
+El SLA no cubre:  
+- Fallos causados por la conexión a internet del Cliente.  
+- Uso indebido o no autorizado de la App.  
+- Interrupciones por fuerza mayor (desastres naturales, fallos de proveedores de internet, etc.).
+
+## 10. Duración y Revisión
+- El presente SLA entra en vigor en la fecha de aceptación por parte del Cliente y tendrá vigencia mientras el servicio esté activo.  
+- Se revisará anualmente o cuando se realicen cambios significativos en el servicio.
+
+## 11. Aceptación
+El uso continuado de la App implica la aceptación de los términos aquí descritos.
 
 ---
 
@@ -175,7 +226,8 @@ Se detallan los principales endpoints implementados para cada uno de los módulo
 
 ### 5.2.8. Team Collaboration Insights
 
-  
+  <img width="902" height="464" alt="image" src="https://github.com/user-attachments/assets/ab21d248-fef2-4d04-8832-b9ef588dd71e" />
+
 
 ---
 
