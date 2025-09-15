@@ -235,4 +235,6 @@ Se detallan los principales endpoints implementados para cada uno de los módulo
 ## 5.3. Video About-the-Product
 Video demostrativo de las principales funcionalidades del producto, incluyendo la landing page, la aplicación web y la aplicación móvil.  
 
+<img width="1037" height="585" alt="image" src="https://github.com/user-attachments/assets/27271617-0409-4941-b7f5-c554ae191066" />
 
+[https://youtu.be/ZWXRsq7eO5U]([https://docs.github.com/](https://youtu.be/ZWXRsq7eO5U))
