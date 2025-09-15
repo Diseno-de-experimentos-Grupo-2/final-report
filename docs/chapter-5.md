@@ -137,6 +137,15 @@ Evidencia de endpoints en Swagger:
 
 ---
 
+
+---
+
+### 5.2.7. RESTful API documentation
+
+En esta sección se presenta la evidencia de documentación de los servicios desarrollados durante esta entrega para la aplicación Entrena.pe , los cuales están disponibles y visibles mediante Swagger.
+Se detallan los principales endpoints implementados para cada uno de los módulos funcionales, incluyendo su método HTTP, ruta y descripción correspondiente.
+
+
 **Routine-Controller**
 
 | Método | Endpoint | Description |
@@ -162,15 +171,6 @@ Evidencia de endpoints en Swagger:
 | DELETE	| /api/v1/exercises/{exerciseId} |	Eliminar un ejercicio por su ID.|
 | GET	| /api/v1/exercises |	Listar todos los ejercicios disponibles.|
 | POST	| /api/v1/exercises |	Crear un nuevo ejercicio.|
-
----
-
-### 5.2.7. RESTful API documentation
-
-En esta sección se presenta la evidencia de documentación de los servicios desarrollados durante esta entrega para la aplicación Entrena.pe , los cuales están disponibles y visibles mediante Swagger.
-Se detallan los principales endpoints implementados para cada uno de los módulos funcionales, incluyendo su método HTTP, ruta y descripción correspondiente.
-
-
 ---
 
 ### 5.2.8. Team Collaboration Insights
