@@ -324,11 +324,13 @@ En esta sección se describe el recorrido completo de los usuarios clave en la s
 
 **Segmento objetivo 1: Deportistas**
 
-  <img src="/assets/Carla Mendoza (3).png" >
+  <img width="886" height="1004" alt="image" src="https://github.com/user-attachments/assets/35a39759-b688-4df0-88ea-24f32f84c0fa" />
+
 
 **Segmento objetivo 2: Entrenador**
 
-<img src="/assets/Diego Salazar (1).png" >
+<img width="886" height="991" alt="image" src="https://github.com/user-attachments/assets/eda06218-78c8-4a59-bd2d-73bf2af4cfdd" />
+
 
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -339,11 +341,13 @@ Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchar
 
 **As-Is Segmento objetivo 1: Deportistas**
 
-  <img src="/assets/Diagrama en blanco.png" >
+  <img width="2518" height="1528" alt="image" src="https://github.com/user-attachments/assets/7fed0f18-3df2-4105-861f-9a22c94b0a42" />
+
 
 **As-Is Segmento objetivo 2: Entrenador**
 
-<img src="/assets/Diagrama en blanco (1).png" >
+<img width="2543" height="1510" alt="image" src="https://github.com/user-attachments/assets/36c07675-7486-4574-953f-8cd574578e9c" />
+
 
 ## 2.4. Ubiquitous Language.
 
