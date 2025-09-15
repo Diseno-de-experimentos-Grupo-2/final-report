@@ -147,6 +147,7 @@ Aquí se presentan los wireframes de la aplicación móvil de **Entrena.pe**, di
 
 <img width="1527" height="3494" alt="image" src="https://github.com/user-attachments/assets/8789eb52-cb9b-499e-958d-654ec233af25" />
 Link:
+
 [https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-1941%2C3470%2C3325%2C4518%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552](https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-1941%2C3470%2C3325%2C4518%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552)
 
 ## 4.5. Mobile Applications Prototyping.
@@ -247,6 +248,11 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 
 ### 4.6.4. Web Applications User Flow Diagrams.
 
+<img width="1527" height="3494" alt="image" src="https://github.com/user-attachments/assets/8789eb52-cb9b-499e-958d-654ec233af25" />
+
+Link:
+
+[https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-1941%2C3470%2C3325%2C4518%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552](https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-1941%2C3470%2C3325%2C4518%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552)
 
 ## 4.7. Web Applications Prototyping.
 
