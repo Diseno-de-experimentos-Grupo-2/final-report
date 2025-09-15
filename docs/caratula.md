@@ -47,14 +47,14 @@
 
 
 ## Registro de Versiones del Informe
+
 ## Project Report Collaboration Insights
+<img width="908" height="455" alt="image" src="https://github.com/user-attachments/assets/04cad86f-a510-4851-adff-0ccd40927754" />
+
 
 # Contenido
 ## Tabla de Contenidos
-
 ## Student Outcome
-
-
 ### Part I: As-Is Software Project
 
 ### [Capítulo I: Introducción](/chapter01.md)
