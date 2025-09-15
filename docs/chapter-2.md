@@ -17,38 +17,38 @@ TrueCoach está enfocada en entrenadores personales que trabajan de forma remota
 ### 2.1.1. Análisis competitivo.
 ### **¿Por qué llevar a cabo este análisis?**
 
-Llevar a cabo este análisis permite identificar y comparar las fortalezas, debilidades y propuestas de valor de los principales competidores, con el fin de mejorar la estrategia de **FitBridge**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
+Llevar a cabo este análisis permite identificar y comparar las fortalezas, debilidades y propuestas de valor de los principales competidores, con el fin de mejorar la estrategia de **Entrena.pe**, detectar oportunidades en el mercado y definir una ventaja competitiva clara y sostenible.
 
 ---
 
 ### Perfil 
-| Perfil       | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
-|--------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Overview     | Plataforma web y móvil que conecta entrenadores con usuarios afiliados y no afiliados a gimnasios. | Plataforma profesional para entrenadores y centros de salud con enfoque en análisis y personalización. | Plataforma digital para gimnasios y entrenadores con herramientas de gestión y seguimiento. | Plataforma para entrenadores personales que trabajan de forma remota o híbrida. |
-| Ventaja Competitiva      | Comunicación directa, gestión personalizada y acceso a entrenadores desde cualquier lugar. | Personalización profunda basada en datos y planificación a largo plazo. | Flexibilidad para gimnasios y entrenadores con interfaz amigable. | Comunicación constante y seguimiento dinámico para entrenadores remotos.   |
+| Perfil              | Entrena.pe                                                                                         | Hexfit                                                                                                 | Trainingym                                                                                  | TrueCoach                                                                       |
+|---------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Overview            | Plataforma web y móvil que conecta entrenadores con usuarios afiliados y no afiliados a gimnasios. | Plataforma profesional para entrenadores y centros de salud con enfoque en análisis y personalización. | Plataforma digital para gimnasios y entrenadores con herramientas de gestión y seguimiento. | Plataforma para entrenadores personales que trabajan de forma remota o híbrida. |
+| Ventaja Competitiva | Comunicación directa, gestión personalizada y acceso a entrenadores desde cualquier lugar.         | Personalización profunda basada en datos y planificación a largo plazo.                                | Flexibilidad para gimnasios y entrenadores con interfaz amigable.                           | Comunicación constante y seguimiento dinámico para entrenadores remotos.        |
 
 
 ### Perfil de Marketing
-| Perfil de Markteing     | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
-|----------------------|-------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------|
-| Mercado Objetivo | Usuarios independientes, afiliados a gimnasios y entrenadores personales.     | Entrenadores profesionales, fisioterapeutas y centros de salud. | Gimnasios, centros deportivos y entrenadores personales. | Entrenadores personales que ofrecen servicios online.   |
-| Estrategias de Marketing    | Marketing digital, redes sociales, alianzas con gimnasios y entrenadores. | Participación en eventos de salud, marketing B2B, demostraciones técnicas. | Publicidad en medios fitness, ferias deportivas, marketing institucional.   | Marketing en redes sociales, contenido educativo, colaboraciones con entrenadores.  |
+| Perfil de Markteing      | Entrena.pe                                                                | Hexfit                                                                     | Trainingym                                                                | TrueCoach                                                                          |
+|--------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Mercado Objetivo         | Usuarios independientes, afiliados a gimnasios y entrenadores personales. | Entrenadores profesionales, fisioterapeutas y centros de salud.            | Gimnasios, centros deportivos y entrenadores personales.                  | Entrenadores personales que ofrecen servicios online.                              |
+| Estrategias de Marketing | Marketing digital, redes sociales, alianzas con gimnasios y entrenadores. | Participación en eventos de salud, marketing B2B, demostraciones técnicas. | Publicidad en medios fitness, ferias deportivas, marketing institucional. | Marketing en redes sociales, contenido educativo, colaboraciones con entrenadores. |
 
 ### Perfil de Producto 
-| Perfil de Producto | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
-|-----------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------|
-| Productos & Servicios                | Plataforma web/móvil, calendario, metas, rutinas, gestión de clientes, publicaciones personalizadas. | Software con dashboards, planificación, encuestas, análisis de datos. | App con rutinas, control de asistencia, gestión de citas y clientes.  | App con rutinas, videos, mensajería directa, seguimiento personalizado.|
-| Precios & Costos           | Freemium: usuarios afiliados no pagan, usuarios independientes y entrenadores personales sí. | SaaS por suscripción mensual, escalable según número de clientes. | Suscripción mensual por gimnasio o entrenador, precio medio. | Suscripción mensual por entrenador, precio medio-alto. |
-| Canales de Distribucion      | Web y app móvil (Android/iOS), alianzas con gimnasios y entrenadores. | Web, app móvil, integración con sistemas médicos. | Web, app móvil, integración con software de gimnasios.   | Web, app móvil, marketing directo a entrenadores. |
+| Perfil de Producto      | Entrena.pe                                                                                           | Hexfit                                                                | Trainingym                                                           | TrueCoach                                                               |
+|-------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Productos & Servicios   | Plataforma web/móvil, calendario, metas, rutinas, gestión de clientes, publicaciones personalizadas. | Software con dashboards, planificación, encuestas, análisis de datos. | App con rutinas, control de asistencia, gestión de citas y clientes. | App con rutinas, videos, mensajería directa, seguimiento personalizado. |
+| Precios & Costos        | Freemium: usuarios afiliados no pagan, usuarios independientes y entrenadores personales sí.         | SaaS por suscripción mensual, escalable según número de clientes.     | Suscripción mensual por gimnasio o entrenador, precio medio.         | Suscripción mensual por entrenador, precio medio-alto.                  |
+| Canales de Distribucion | Web y app móvil (Android/iOS), alianzas con gimnasios y entrenadores.                                | Web, app móvil, integración con sistemas médicos.                     | Web, app móvil, integración con software de gimnasios.               | Web, app móvil, marketing directo a entrenadores.                       |
 
 
 ### Análisis SWTO 
-| Analisis SWTO | FitBridge                                                                 | Hexfit                                                                 | Trainingym                                                                              | TrueCoach                                                                 |
-|------------|------------------------------------|-------------------------------------------|---------------------------------------------|------------------------------------------------------|
-|        Fortalezas    | Plataforma inclusiva para distintos tipos de usuarios. Interfaz intuitiva. Comunicación directa. | Personalización avanzada. Análisis de datos. Herramientas profesionales. | Gestión integral para gimnasios. Interfaz adaptable. | Comunicación constante. Ideal para entrenadores online. |
-|    Debilidades         | Requiere adopción por parte de gimnasios y entrenadores. En etapa inicial. | Costos elevados. Curva de aprendizaje técnica.| Limitado a gimnasios. Menor enfoque en usuarios independientes. | Enfocado solo en entrenadores personales. Menor escalabilidad institucional. |
-|     Oportunidades          | Expansión nacional. Integración con wearables. Alianzas con gimnasios y entrenadores. | Integración con dispositivos IoT. Expansión a clínicas y hospitales. | Expansión a gimnasios pequeños y entrenadores independientes. | Crecimiento del entrenamiento remoto. Integración con plataformas de salud. |
-|    Amenazas      | Competencia con apps consolidadas. Retención de usuarios. | Evolución tecnológica rápida. Competencia con plataformas más accesibles. | Nuevas apps gratuitas. Saturación del mercado fitness. | RCompetencia con apps más versátiles. Cambios en hábitos de consumo digital. |
+| Analisis SWTO | Entrena.pe                                                                                       | Hexfit                                                                    | Trainingym                                                      | TrueCoach                                                                    |
+|---------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------|
+| Fortalezas    | Plataforma inclusiva para distintos tipos de usuarios. Interfaz intuitiva. Comunicación directa. | Personalización avanzada. Análisis de datos. Herramientas profesionales.  | Gestión integral para gimnasios. Interfaz adaptable.            | Comunicación constante. Ideal para entrenadores online.                      |
+| Debilidades   | Requiere adopción por parte de gimnasios y entrenadores. En etapa inicial.                       | Costos elevados. Curva de aprendizaje técnica.                            | Limitado a gimnasios. Menor enfoque en usuarios independientes. | Enfocado solo en entrenadores personales. Menor escalabilidad institucional. |
+| Oportunidades | Expansión nacional. Integración con wearables. Alianzas con gimnasios y entrenadores.            | Integración con dispositivos IoT. Expansión a clínicas y hospitales.      | Expansión a gimnasios pequeños y entrenadores independientes.   | Crecimiento del entrenamiento remoto. Integración con plataformas de salud.  |
+| Amenazas      | Competencia con apps consolidadas. Retención de usuarios.                                        | Evolución tecnológica rápida. Competencia con plataformas más accesibles. | Nuevas apps gratuitas. Saturación del mercado fitness.          | RCompetencia con apps más versátiles. Cambios en hábitos de consumo digital. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -77,7 +77,7 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 **Integración con software de gestión**
 
 - **Estrategia:** Posicionarse como una solución compatible con sistemas de gestión existentes..
-- **Táctica:** Desarrollar integraciones con CRMs, sistemas de pago y apps de control de acceso.
+- **Táctica:** Desarrollar integraciones con CRM's, sistemas de pago y apps de control de acceso.
 
 > Esta táctica **responde a la amenaza de interoperabilidad limitada** en otras plataformas y **aprovecha la oportunidad de digitalización en gimnasios medianos y grandes.**
 
@@ -107,7 +107,7 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 3. ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?  
 4. ¿En qué ciudad resides?  
 
-**Segmento: Usuarios no afiliados a gimnasios**
+**Segmento: Deportistas**
 
 1. ¿Cómo es tu rutina de entrenamiento actualmente? ¿Dónde entrenas y con qué frecuencia?
 2. ¿Has contratado alguna vez a un entrenador personal? ¿Cómo fue esa experiencia? 
@@ -117,13 +117,13 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 6. ¿Qué tipo de apoyo profesional te gustaría recibir para mejorar tu entrenamiento?
 7. ¿Qué tan importante es para ti tener comunicación constante con un entrenador?
 8. ¿Estarías dispuesto a pagar por una plataforma que te conecte con entrenadores personales y te ayude a seguir tus metas? ¿Por qué?
-9. ¿Qué funcionalidades te parecerían imprescindibles en una plataforma como FitBridge?
+9. ¿Qué funcionalidades te parecerían imprescindibles en una plataforma como Entrena.pe?
 10. ¿Qué aspectos te harían confiar en un entrenador que conoces a través de una app?
 11. ¿Qué sugerencias tendrías para mejorar la experiencia de entrenamiento remoto?
 12. ¿Qué tan importante es para ti registrar tus hábitos saludables (como descanso, hidratación, alimentación) en una app?
 
 
-**Segmento: Entrenadores personales**
+**Segmento: Entrenadores**
 
 1. ¿Cuántos clientes gestionas actualmente y cómo organizas sus rutinas?  
 2. ¿Trabajas de forma presencial, remota o híbrida? ¿Cuál prefieres y por qué? 
@@ -134,17 +134,145 @@ Llevar a cabo este análisis permite identificar y comparar las fortalezas, debi
 7. ¿Qué funcionalidades consideras clave para organizar tu trabajo como entrenador?
 8. ¿Estarías dispuesto a pagar por una herramienta que te ayude a gestionar clientes, publicar rutinas y mantener comunicación constante? ¿Por qué?
 9. ¿Qué tipo de contenido te gustaría compartir con tus clientes a través de una plataforma (videos, rutinas, mensajes, etc.)?
-10. ¿Qué te haría elegir FitBridge sobre otras plataformas similares?
+10. ¿Qué te haría elegir Entrena.pe sobre otras plataformas similares?
 11. ¿Qué retos enfrentas al trabajar con clientes de forma remota?
 12. ¿Qué sugerencias tienes para mejorar la experiencia digital entre entrenador y cliente?
 
 ### 2.2.2. Registro de entrevistas.
 
+En esta sección se aborda la información recolectada de cada entrevista incluyendo un resumen de las respuestas de los entrevistados.
+
+#### Segmento 1: Deportistas.
+
+- _Entrevista 1_
+
+| Nombre               | Marco      |
+|----------------------|------------|
+| Apellido             | Nakasone   |
+| Edad                 | 22         |
+| Distrito             | San Isidro |
+| Evidencia            |            |
+| Url                  |            |
+| Inicio de entrevista |            |
+| Fin de entrevista    |            |
+
+- Distrito de residencia: San Isidro
+- Estado civil: Soltero
+- Ocupación: Deportista
+- Dispositivo de preferencia: Laptop
+- Canales de interacción digital: Facebook, LinkedIn
+
+### Resumen de entrevista:
+
+
+- _Entrevista 2_
+
+| Nombre               |                                                                                                                                                                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             |                                                                                                                                                                                                                                   |
+| Edad                 |                                                                                                                                                                                                                                   |
+| Distrito             |                                                                                                                                                                                                                                   |
+| Evidencia            |                                                                                                                                                                                                                                   |
+| Url                  |                                                                                                                                                                                                                                   |
+| Inicio de entrevista |                                                                                                                                                                                                                                   |    
+| Fin de entrevista    |                                                                                                                                                                                                                                   |
+
+- Distrito de residencia: 
+- Estado civil: 
+- Ocupación: Deportista
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Instagram, X
+
+### Resumen de entrevista:
+
+- _Entrevista 3_
+
+| Nombre               |                                                                                                                                                                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             |                                                                                                                                                                                                                                   |
+| Edad                 |                                                                                                                                                                                                                                   |
+| Distrito             |                                                                                                                                                                                                                                   |
+| Evidencia            |                                                                                                                                                                                                                                   |
+| Url                  |                                                                                                                                                                                                                                   |
+| Inicio de entrevista |                                                                                                                                                                                                                                   |    
+| Fin de entrevista    |                                                                                                                                                                                                                                   |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación: Deportista
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Instagram, X
+
+### Resumen de entrevista:
+
+
+#### Segmento 2: Entrenadores.
+
+- _Entrevista 1_
+
+| Nombre               | Marco      |
+|----------------------|------------|
+| Apellido             | Nakasone   |
+| Edad                 | 22         |
+| Distrito             | San Isidro |
+| Evidencia            |            |
+| Url                  |            |
+| Inicio de entrevista |            |
+| Fin de entrevista    |            |
+
+- Distrito de residencia: San Isidro
+- Estado civil: Soltero
+- Ocupación: Entrenador
+- Dispositivo de preferencia: Laptop
+- Canales de interacción digital: Facebook, LinkedIn
+
+### Resumen de entrevista:
+
+
+- _Entrevista 2_
+
+| Nombre               |                                                                                                                                                                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             |                                                                                                                                                                                                                                   |
+| Edad                 |                                                                                                                                                                                                                                   |
+| Distrito             |                                                                                                                                                                                                                                   |
+| Evidencia            |                                                                                                                                                                                                                                   |
+| Url                  |                                                                                                                                                                                                                                   |
+| Inicio de entrevista |                                                                                                                                                                                                                                   |    
+| Fin de entrevista    |                                                                                                                                                                                                                                   |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación: Entrenador
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Instagram, X
+
+### Resumen de entrevista:
+
+- _Entrevista 3_
+
+| Nombre               |                                                                                                                                                                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             |                                                                                                                                                                                                                                   |
+| Edad                 |                                                                                                                                                                                                                                   |
+| Distrito             |                                                                                                                                                                                                                                   |
+| Evidencia            |                                                                                                                                                                                                                                   |
+| Url                  |                                                                                                                                                                                                                                   |
+| Inicio de entrevista |                                                                                                                                                                                                                                   |    
+| Fin de entrevista    |                                                                                                                                                                                                                                   |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación: Entrenador
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Instagram, X
+
 ### 2.2.3. Análisis de entrevistas.
 
-## 2.3. Needfinding.
-
-### 2.3.1. User Personas.
+## 2.3. Need finding.
+En esta sección se presenta el análisis detallado de la información recolectada durante las entrevistas realizadas a los distintos perfiles involucrados en el deporte. El objetivo principal del proceso de Needfinding ha sido identificar necesidades reales, motivaciones, frustraciones y patrones de comportamiento de los usuarios para guiar el diseño de una solución centrada en ellos.<br>
+Los artefactos incluidos User Persona, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping, permiten visualizar, sintetizar y comprender de manera estructurada la experiencia actual de los usuarios, sus tareas clave, emociones, puntos de dolor y oportunidades de mejora. Este análisis constituye la base para el diseño de soluciones alineadas con sus contextos y objetivos reales.
+### 2.3.1. User Persona.
 
 ### 2.3.2. User Task Matrix.
 
