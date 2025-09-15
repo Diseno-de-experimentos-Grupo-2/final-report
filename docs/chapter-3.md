@@ -4,13 +4,15 @@
 Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchart. Se puede acceder al diagrama completo en el siguiente enlace
 [https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-2515%2C-671%2C3567%2C3405%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552](https://lucid.app/lucidchart/75a1847d-f8db-4835-b8c7-632c9ced9048/edit?viewport_loc=-2515%2C-671%2C3567%2C3405%2C0_0&invitationId=inv_b099a2d7-f0e4-4e16-b56f-f7dcee7b8552)
 
-**As-Is Segmento objetivo 1:Deportistas**
+**To-Be Segmento objetivo 1:Deportistas**
 
-  <img src="/assets/Entrena.pe.png" >
+  <img width="2518" height="1535" alt="image" src="https://github.com/user-attachments/assets/1d372854-3d97-4d60-bee4-22d0a8f784e8" />
 
-**As-Is Segmento objetivo 2: Entrenadores**
 
-<img src="/assets/Entrena.pe (1).png" >
+**To-Be Segmento objetivo 2: Entrenadores**
+
+<img width="2476" height="1479" alt="image" src="https://github.com/user-attachments/assets/078a09f0-87e7-449f-9052-7911b3004e87" />
+
 
 ## 3.2. User Stories.
 
