@@ -353,17 +353,17 @@ Este análisis ha sido realizado y visualizado mediante la herramienta Lucidchar
 
 El Lenguaje Ubicuo de Entrena.pe establece un vocabulario común entre desarrolladores, profesionales de la salud y usuarios, asegurando una comunicación clara y coherente durante todo el desarrollo del sistema. Este glosario define los términos clave del dominio y se utiliza de forma consistente en la plataforma, documentación e interacción con los stakeholders.
 
-| Term                   | Definition                                                                                                                                                |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Usuario                | 	Persona que utiliza la plataforma Entrena.pe para acceder a rutinas, hábitos y comunicación con entrenadores. Puede o no estar afiliada a un gimnasio.   |
-| Entrenador             | 	Profesional independiente o asociado a un gimnasio que gestiona clientes, publica rutinas y hace seguimiento a través de Entrena.pe.                     |
-| Cliente                | 	Usuario que ha contratado los servicios de un entrenador personal dentro de la plataforma.                                                               |
-| Rutina                 | 	Conjunto estructurado de ejercicios asignados por el entrenador a un cliente, con duración, series, repeticiones o tiempos.                              |
-| Plan de Entrenamiento	 | Conjunto de rutinas personalizadas distribuidas en un calendario para cumplir un objetivo específico (ej. bajar de peso, tonificar, ganar masa muscular). |
-| Calendario	            | Herramienta que organiza los entrenamientos, hábitos y sesiones en fechas y horarios definidos.                                                           |
-| Hábito Saludable       | 	Actividad complementaria al entrenamiento (alimentación, hidratación, sueño, descanso activo) que se registra y hace seguimiento en la plataforma.       |
-| Progreso               | 	Métricas y resultados alcanzados por el usuario (peso, medidas corporales, asistencia a entrenamientos, cumplimiento de rutinas).                        |
-| Seguimiento	           | Acción del entrenador de monitorear y retroalimentar el avance de cada cliente.                                                                           |
-| Notificación           | 	Mensaje generado por la plataforma o por el entrenador para recordar entrenamientos, hábitos o novedades.                                                |
-| Suscripción            | 	Plan de pago que habilita acceso a servicios dentro de Entrena.pe (ej. acceso premium a entrenadores o rutinas avanzadas).                               |
-| Perfil                 | 	Información personal y profesional registrada en la plataforma, tanto para usuarios como para entrenadores.                                              |
+| Term           | Definition                                                                                                                                                |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| User           | 	Persona que utiliza la plataforma Entrena.pe para acceder a rutinas, hábitos y comunicación con entrenadores. Puede o no estar afiliada a un gimnasio.   |
+| Trainer        | 	Profesional independiente o asociado a un gimnasio que gestiona clientes, publica rutinas y hace seguimiento a través de Entrena.pe.                     |
+| Sportsman      | 	Usuario que ha contratado los servicios de un entrenador personal dentro de la plataforma.                                                               |
+| Routine        | 	Conjunto estructurado de ejercicios asignados por el entrenador a un cliente, con duración, series, repeticiones o tiempos.                              |
+| Training plan	 | Conjunto de rutinas personalizadas distribuidas en un calendario para cumplir un objetivo específico (ej. bajar de peso, tonificar, ganar masa muscular). |
+| Calendar	      | Herramienta que organiza los entrenamientos, hábitos y sesiones en fechas y horarios definidos.                                                           |
+| Healthy habit  | 	Actividad complementaria al entrenamiento (alimentación, hidratación, sueño, descanso activo) que se registra y hace seguimiento en la plataforma.       |
+| Progress       | 	Métricas y resultados alcanzados por el usuario (peso, medidas corporales, asistencia a entrenamientos, cumplimiento de rutinas).                        |
+| Tracking	      | Acción del entrenador de monitorear y retroalimentar el avance de cada cliente.                                                                           |
+| Notification   | 	Mensaje generado por la plataforma o por el entrenador para recordar entrenamientos, hábitos o novedades.                                                |
+| Subscription   | 	Plan de pago que habilita acceso a servicios dentro de Entrena.pe (ej. acceso premium a entrenadores o rutinas avanzadas).                               |
+| Profile        | 	Información personal y profesional registrada en la plataforma, tanto para usuarios como para entrenadores.                                              |
