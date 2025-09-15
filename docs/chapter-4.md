@@ -213,10 +213,110 @@ A continuación, se presentan los wireframes de la aplicación web de **Entrena.
 
 ### 4.9.1. Class Diagrams.
 
-
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417018067510100129/image.png?ex=68c8f46a&is=68c7a2ea&hm=f0f09b472bec097f73ae4a80840dbdecc09410b146c9b9a9f6cabfa4852eac79&=&format=webp&quality=lossless">
 
 ### 4.9.2. Class Dictionary.
+
+## **User (abstracta)**
+### Atributos
+- `id: int`
+- `name: string`
+- `email: string`
+- `password: string`
+- `userType: string`
+
+### Métodos
+- `register()`
+- `login()`
+- `updateProfile()`
+
+### Relaciones
+- Clase padre de **Client** y **Trainer**
+
+---
+
+## **Client (hereda de User)**
+### Atributos
+- `goals: string`
+- `objectives: string`
+
+### Métodos
+- `viewWorkouts()`
+- `setGoals()`
+- `viewCalendar()`
+
+### Relaciones
+- Tiene un **Calendar**
+- Comparte objetivos con un **Trainer**
+- Recibe **Trainings** de un **Trainer**
+- Ve **Posts** creados por un **Trainer**
+
+---
+
+## **Trainer (hereda de User)**
+### Atributos
+- `clientList: List<Client>`
+
+### Métodos
+- `createPost()`
+- `viewClientGoals()`
+
+### Relaciones
+- Administra múltiples **Clients**
+- Crea **Trainings** para un **Client**
+- Crea **Posts** visibles para clientes específicos
+
+---
+
+## **Training**
+### Atributos
+- `id: int`
+- `title: string`
+- `description: string`
+- `postDate: Date`
+
+### Métodos
+- `assignToClient()`
+- `editWorkout()`
+
+### Relaciones
+- Creado por un **Trainer**
+- Asignado a un **Client**
+
+---
+
+## **Post**
+### Atributos
+- `id: int`
+- `content: string`
+- `date: Date`
+
+### Métodos
+- *(ninguno definido explícitamente, pero se podrían incluir publicar/editar en el futuro)*
+
+### Relaciones
+- Creado por un **Trainer**
+- Visible para un **Client** específico
+
+---
+
+## **Calendar**
+### Atributos
+- `id: int`
+- `events: List<string>`
+- `habits: List<string>`
+
+### Métodos
+- `addEvent()`
+- `addHabit()`
+- `viewCalendar()`
+
+### Relaciones
+- Pertenece a un **Client**
 
 ## 4.10. Database Design.
 
 ### 4.10.1. Relational/Non-Relational Database Diagram.
+
+<img src="https://media.discordapp.net/attachments/1411381097920462945/1417014752282017914/a44f0c84-138d-44a3-b905-c60f5aaf558d.png?ex=68c8f153&is=68c79fd3&hm=899e74f489d7b886139b2228d7614c3b4bc540815d8ad9bfd5802d3773b2f226&=&format=webp&quality=lossless&width=1376&height=885">
+
